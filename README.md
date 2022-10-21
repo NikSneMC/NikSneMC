@@ -1,7 +1,7 @@
 ### Hi there 👋, I am NikSne
 
 - 🔭 I’m currently working on [ShardMC](https://discord.gg/W87YPkWw8t)
-- 🌱 I’m currently learning Pascal, Java, Python and HTML
+- 🌱 I’m currently learning Pascal, Java, Python, C++ and HTML
 - 📫 How to reach me: You can contact me in Discord [(link)](https://discordapp.com/users/760511113795207168/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love coding and I am Co-Owner of ShardMC & technical admin of the Wolfland server.
