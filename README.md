@@ -1,7 +1,7 @@
 ### Hi there 👋, I am NikSne
 
 <p align="center">
-  Visitor count<br>
+  Visitor counter<br>
   <img src="https://profile-counter.glitch.me/niksnemc/count.svg" />
   </p>
 
