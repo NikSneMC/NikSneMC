@@ -1,26 +1,4 @@
-### Hi there 👋, I am NikSne
-
-<p align="center">
-  Visitor counter<br>
-  <img src="https://profile-counter.glitch.me/niksnemc/count.svg" />
-  </p>
-
-- 🔭 I’m currently working on [ShardMC](https://discord.gg/W87YPkWw8t)
-- 🌱 I’m currently learning Pascal, Java, Python, C++ and HTML
-- 📫 How to reach me: You can contact me in Discord [(link)](https://discordapp.com/users/760511113795207168/)
-- 😄 Pronouns: It, He
-- ⚡ about me: I love coding and I am Co-Owner of ShardMC & technical admin of the Wolfland server.
-<!--
-**NikSneMC/NikSneMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+NikSne!" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=You+are+using+light+mode&color=000000" />
+</picture>
