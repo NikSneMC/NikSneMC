@@ -1,5 +1,10 @@
 ### Hi there 👋, I am NikSne
 
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/niksnemc/count.svg" />
+  </p>
+
 - 🔭 I’m currently working on [ShardMC](https://discord.gg/W87YPkWw8t)
 - 🌱 I’m currently learning Pascal, Java, Python, C++ and HTML
 - 📫 How to reach me: You can contact me in Discord [(link)](https://discordapp.com/users/760511113795207168/)
