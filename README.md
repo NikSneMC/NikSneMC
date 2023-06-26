@@ -22,11 +22,11 @@
 </picture>
 <picture>
 	<source 
-        	srcset="https://github-readme-stats.vercel.app/api?username=niksnemc&custom_title=My+stats:&show_icons=true&show=reviews,discussions_started,discussions_answered&theme=dark"
+        	srcset="https://github-readme-stats.vercel.app/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered"
           	media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
         />
   	<source
-          	srcset="https://github-readme-stats.vercel.app/api?username=niksnemc&custom_title=My+stats:&show_icons=true&show=reviews,discussions_started,discussions_answered&theme=light"
+          	srcset="https://github-readme-stats.vercel.app/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=light&show=reviews,discussions_started,discussions_answered"
           	media="(prefers-color-scheme: light)"
         />
   	<img src="https://github-readme-stats.vercel.app/api?username=niksnemc&custom_title=My+stats:&show_icons=true&show=reviews,discussions_started,discussions_answered&theme=dark"/>
