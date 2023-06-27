@@ -4,10 +4,10 @@
 		media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 	/>
 	<source 
-		srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=1000&duration=2500&color=000000&vCenter=true&repeat=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+NikSne!"
+		srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=1000&duration=2500&color=000000&vCenter=true&repeat=false&width=435&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I+am+NikSne!"
 		media="(prefers-color-scheme: light)"
 	/>
-	<img src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=1000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I+am+NikSne!"/>
+	<img src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=1000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I+am+NikSne!"/>
 </picture>	
 <br>
 <picture>
@@ -48,14 +48,14 @@
 <br>
 <picture>
 	<source
-		srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=My+Modrinth+Projects%3A"
+		srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=2000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=100&lines=My+Modrinth+Projects%3A"
 		media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 	/>
 	<source
-		srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&pause=1000&color=000000&vCenter=true&repeat=false&width=435&lines=My+Modrinth+Projects%3A"
+		srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=2000&duration=2500&color=000000&vCenter=true&repeat=false&width=435&height=100&lines=My+Modrinth+Projects%3A"
 		media="(prefers-color-scheme: light)"
 	/>
-	<img src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=435&lines=My+Plugins%3A"/>
+	<img src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=2000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=100&lines=My+Plugins%3A"/>
 </picture>
 <br>
 <table>
