@@ -46,7 +46,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niksnemc&theme=dark"/>
 </picture>
 <br>
-<a href="https://modrinth.com/user/NikSne"  target="_blank">
+<a href="https://modrinth.com/user/NikSne" target="_blank">
 	<picture>
 		<source
 			srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=2000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=100&lines=My+Modrinth+Projects%3A"
@@ -62,7 +62,7 @@
 <br>
 <table>
 	<td>
-		<a href="https://github.com/niksnemc/packetauth"  target="_blank">
+		<a href="https://github.com/niksnemc/packetauth" target="_blank">
 			<picture>
 				<source
 					srcset="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=packetauth&theme=dark"
@@ -77,7 +77,7 @@
 		</a>
 	</td>
 	<td>
-		<a href="https://github.com/niksnemc/prelogin-whitelist"  target="_blank">
+		<a href="https://github.com/niksnemc/prelogin-whitelist" target="_blank">
 			<picture>
 				<source
 					srcset="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=dark"
