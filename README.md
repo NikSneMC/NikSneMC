@@ -7,7 +7,7 @@
 		srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=1000&duration=2500&color=000000&vCenter=true&repeat=false&width=435&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I+am+NikSne!"
 		media="(prefers-color-scheme: light)"
 	/>
-	<img alt="Hi there👋, I am NikSne!" src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=1000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I+am+NikSne!"/>
+	<img alt="Hi there 👋, I am NikSne!" src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=1000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=100&lines=Hi+there+%F0%9F%91%8B%2C+I+am+NikSne!"/>
 </picture>	
 <br>
 <picture>
