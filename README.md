@@ -46,32 +46,6 @@
 	<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niksnemc&theme=dark"/>
 </picture>
 <br>
-<picture>
-	<source 
-		srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&pause=1000&color=FFFFFF&repeat=false&width=435&lines=My+Discord+server%3A" 
-		media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-		/>
-	<source
-		srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&pause=1000&color=000000&repeat=false&width=435&lines=My+Discord+server%3A" 
-		media="(prefers-color-scheme: light)"
-	/>
-	<img alt="My Discord Server:" 
-		src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&pause=1000&color=FFFFFF&repeat=false&width=435&lines=My+Discord+server%3A"/>
-</picture>
-<br>
-<picture>
-	<source
-		srcset="https://discord.com/widget?id=1117988777705623602&theme=dark"
-		media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-	/>
-	<source 
-		srcset="https://discord.com/widget?id=1117988777705623602&theme=light" 
-		media="(prefers-color-scheme: light)"
-	/>
-	<img alt="[Discord Widget](https://discord.com/invite/RXTJkYsQ?utm_source=Discord%20Widget&utm_medium=Connect)"
-		src="https://discord.com/widget?id=1117988777705623602&theme=dark"/>
-</picture>
-<br>
 <a href="https://modrinth.com/user/NikSne" target="_blank">
 	<picture>
 		<source
