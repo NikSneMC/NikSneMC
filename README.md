@@ -92,8 +92,6 @@
 				</picture>
 			</a>
 		</td>
-	</tr>
-	<tr>
 		<td>
 			<a href="https://github.com/NikSneMC/vanillarpc" target="_blank">
 				<picture>
@@ -109,5 +107,7 @@
 				</picture>
 			</a>
 		</td>
+	</tr>
+	<tr>
 	</tr>
 </table>
