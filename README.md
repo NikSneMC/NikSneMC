@@ -23,6 +23,18 @@
 </picture>
 <br>
 <picture>
+	<source
+		srcset="https://discord.c99.nl/widget/theme-4/760511113795207168.png"
+		media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+	/>
+	<source 
+		srcset="https://discord.c99.nl/widget/theme-4/760511113795207168.png"
+		media="(prefers-color-scheme: light)"
+	/>
+	<img alt="My Discord Status" src="https://discord.c99.nl/widget/theme-4/760511113795207168.png"/>
+</picture>	
+<br>
+<picture>
 	<source 
 		srcset="https://github-readme-stats.vercel.app/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=dark"
 		media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
