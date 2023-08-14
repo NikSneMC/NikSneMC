@@ -29,7 +29,7 @@
 			media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 		/>
 		<source 
-			srcset="https://discord.c99.nl/widget/theme-4/760511113795207168.png"
+			srcset="https://discord.c99.nl/widget/theme-5/760511113795207168.png"
 			media="(prefers-color-scheme: light)"
 		/>
 		<img alt="My Discord Status" src="https://discord.c99.nl/widget/theme-4/760511113795207168.png"/>
