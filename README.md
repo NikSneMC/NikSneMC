@@ -92,23 +92,6 @@
 			</a>
 		</td>
 		<td>
-			<a href="https://github.com/niksnemc/prelogin-whitelist" target="_blank">
-				<picture>
-					<source
-						srcset="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=dark"
-						media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-					/>
-					<source
-						srcset="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=light"
-						media="(prefers-color-scheme: light)"
-					/>
-					<img alt="Pre-Login Whitelist" src="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=dark"/>
-				</picture>
-			</a>
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/NikSneMC/vanillarpc" target="_blank">
 				<picture>
 					<source
@@ -120,6 +103,23 @@
 						media="(prefers-color-scheme: light)"
 					/>
 					<img alt="Vanilla RPC" src="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=vanillarpc&theme=dark"/>
+				</picture>
+			</a>
+		</td>
+	</tr>
+	<tr>
+  		<td>
+			<a href="https://github.com/niksnemc/prelogin-whitelist" target="_blank">
+				<picture>
+					<source
+						srcset="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=dark"
+						media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+					/>
+					<source
+						srcset="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=light"
+						media="(prefers-color-scheme: light)"
+					/>
+					<img alt="Pre-Login Whitelist" src="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=dark"/>
 				</picture>
 			</a>
 		</td>
