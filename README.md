@@ -108,6 +108,21 @@
 		</td>
 	</tr>
 	<tr>
+		<td>
+			<a href="https://github.com/shardmc/arte" target="_blank">
+				<picture>
+					<source
+						srcset="https://github-readme-stats.vercel.app/api/pin/?username=shardmc&repo=arte&theme=dark"
+						media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+					/>
+					<source
+						srcset="https://github-readme-stats.vercel.app/api/pin/?username=shardmc&repo=arte&theme=light"
+						media="(prefers-color-scheme: light)"
+					/>
+					<img alt="Arte" src="https://github-readme-stats.vercel.app/api/pin/?username=shardmc&repo=arte&theme=dark"/>
+				</picture>
+			</a>
+		</td>
   		<td>
 			<a href="https://github.com/niksnemc/prelogin-whitelist" target="_blank">
 				<picture>
