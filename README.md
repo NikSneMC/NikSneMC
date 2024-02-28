@@ -60,6 +60,18 @@
 	<img alt="Top langs" src="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=transparent_dark&layout=compact&hide_border=true&exclude_repo=github-readme-stats,nixpkgs"/>
 </picture>
 <br>
+<picture>
+	<source
+		srcset="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=transparent_dark&layout=compact&hide_border=true&hide=text,ini,diff,csv,textmate,patch,shell%20script,git%20config,http%20request,json,gitignore%20file,go.mod,nix%20file,git,gitignore"
+		media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+	/>
+	<source
+		srcset="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=transparent_light&layout=compact&hide_border=true&hide=text,ini,diff,csv,textmate,patch,shell%20script,git%20config,http%20request,json,gitignore%20file,go.mod,nix%20file,git,gitignore"
+		media="(prefers-color-scheme: light)"
+	/>
+	<img alt="Top langs" src="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=transparent_dark&layout=compact&hide_border=true&hide=text,ini,diff,csv,textmate,patch,shell%20script,git%20config,http%20request,json,gitignore%20file,go.mod,nix%20file,git,gitignore"/>
+</picture>
+<br>
 <a href="https://modrinth.com/user/NikSne" target="_blank">
 	<picture>
 		<source
