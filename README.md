@@ -69,7 +69,7 @@
 		srcset="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=transparent_light&layout=compact&hide_border=true&hide=text,ini,diff,csv,textmate,patch,shell%20script,git%20config,http%20request,json,gitignore%20file,go.mod,nix%20file,git,gitignore"
 		media="(prefers-color-scheme: light)"
 	/>
-	<img alt="Top langs" src="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=transparent_dark&layout=compact&hide_border=true&hide=text,ini,diff,csv,textmate,patch,shell%20script,git%20config,http%20request,json,gitignore%20file,go.mod,nix%20file,git,gitignore"/>
+	<img alt="WakaTime stats" src="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=transparent_dark&layout=compact&hide_border=true&hide=text,ini,diff,csv,textmate,patch,shell%20script,git%20config,http%20request,json,gitignore%20file,go.mod,nix%20file,git,gitignore"/>
 </picture>
 <br>
 <a href="https://modrinth.com/user/NikSne" target="_blank">
