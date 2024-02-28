@@ -50,14 +50,14 @@
 <br>
 <picture>
 	<source
-		srcset="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=transparent_dark&layout=compact&hide_border=true&exclude_repo=github-readme-stats%2Cnixpkgs"
+		srcset="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=transparent_dark&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats%2Cnixpkgs"
 		media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
 	/>
 	<source
-		srcset="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=transparent_light&layout=compact&hide_border=true&exclude_repo=github-readme-stats%2Cnixpkgs"
+		srcset="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=transparent_light&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats%2Cnixpkgs"
 		media="(prefers-color-scheme: light)"
 	/>
-	<img alt="Top langs" src="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=transparent_dark&layout=compact&hide_border=true&exclude_repo=github-readme-stats%2Cnixpkgs"/>
+	<img alt="Top langs" src="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=transparent_dark&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats%2Cnixpkgs"/>
 </picture>
 <br>
 <picture>
