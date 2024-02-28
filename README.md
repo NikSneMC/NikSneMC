@@ -38,26 +38,26 @@
 <br>
 <picture>
 	<source 
-		srcset="https://github-readme-stats.vercel.app/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=dark&hide_border=true"
+		srcset="https://github-readme-stats.niksne.ru/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=transparent_dark&hide_border=true"
 		media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 	/>
 	<source
-		srcset="https://github-readme-stats.vercel.app/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=light&hide_border=true"
+		srcset="https://github-readme-stats.niksne.ru/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=transparent_light&hide_border=true"
 		media="(prefers-color-scheme: light)"
 	/>
-	<img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=dark&hide_border=true"/>
+	<img alt="My Stats" src="https://github-readme-stats.niksne.ru/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=transparent_dark&hide_border=true"/>
 </picture>
 <br>
 <picture>
 	<source
-		srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niksnemc&theme=dark&layout=compact&hide_border=true"
+		srcset="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=transparent_dark&layout=compact&hide_border=true&exclude_repo=github-readme-stats,nixpkgs"
 		media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 	/>
 	<source
-		srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niksnemc&theme=light&layout=compact&hide_border=true"
+		srcset="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=transparent_light&layout=compact&hide_border=true&exclude_repo=github-readme-stats,nixpkgs"
 		media="(prefers-color-scheme: light)"
 	/>
-	<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niksnemc&theme=dark&layout=compact&hide_border=true"/>
+	<img alt="Top langs" src="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=transparent_dark&layout=compact&hide_border=true&exclude_repo=github-readme-stats,nixpkgs"/>
 </picture>
 <br>
 <a href="https://modrinth.com/user/NikSne" target="_blank">
@@ -80,14 +80,14 @@
 			<a href="https://github.com/niksnemc/packetauth" target="_blank">
 				<picture>
 					<source
-						srcset="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=packetauth&theme=dark"
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=packetauth&theme=dark"
 						media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 					/>
 					<source
-						srcset="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=packetauth&theme=light"
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=packetauth&theme=light"
 						media="(prefers-color-scheme: light)"
 					/>
-					<img alt="Packet Auth" src="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=packetauth&theme=dark"/>
+					<img alt="Packet Auth" src="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=packetauth&theme=dark"/>
 				</picture>
 			</a>
 		</td>
@@ -95,14 +95,14 @@
 			<a href="https://github.com/NikSneMC/vanillarpc" target="_blank">
 				<picture>
 					<source
-						srcset="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=vanillarpc&theme=dark"
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=vanillarpc&theme=dark"
 						media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 					/>
 					<source
-						srcset="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=vanillarpc&theme=light"
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=vanillarpc&theme=light"
 						media="(prefers-color-scheme: light)"
 					/>
-					<img alt="Vanilla RPC" src="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=vanillarpc&theme=dark"/>
+					<img alt="Vanilla RPC" src="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=vanillarpc&theme=dark"/>
 				</picture>
 			</a>
 		</td>
@@ -112,14 +112,14 @@
 			<a href="https://github.com/shardmc/arte" target="_blank">
 				<picture>
 					<source
-						srcset="https://github-readme-stats.vercel.app/api/pin/?username=shardmc&repo=arte&theme=dark"
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=shardmc&repo=arte&theme=dark"
 						media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 					/>
 					<source
-						srcset="https://github-readme-stats.vercel.app/api/pin/?username=shardmc&repo=arte&theme=light"
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=shardmc&repo=arte&theme=light"
 						media="(prefers-color-scheme: light)"
 					/>
-					<img alt="Arte" src="https://github-readme-stats.vercel.app/api/pin/?username=shardmc&repo=arte&theme=dark"/>
+					<img alt="Arte" src="https://github-readme-stats.niksne.ru/api/pin/?username=shardmc&repo=arte&theme=dark"/>
 				</picture>
 			</a>
 		</td>
@@ -127,14 +127,14 @@
 			<a href="https://github.com/niksnemc/prelogin-whitelist" target="_blank">
 				<picture>
 					<source
-						srcset="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=dark"
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=dark"
 						media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 					/>
 					<source
-						srcset="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=light"
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=light"
 						media="(prefers-color-scheme: light)"
 					/>
-					<img alt="Pre-Login Whitelist" src="https://github-readme-stats.vercel.app/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=dark"/>
+					<img alt="Pre-Login Whitelist" src="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=dark"/>
 				</picture>
 			</a>
 		</td>
