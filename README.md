@@ -38,26 +38,26 @@
 <br>
 <picture>
 	<source 
-		srcset="https://github-readme-stats.vercel.app/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=dark"
+		srcset="https://github-readme-stats.vercel.app/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=dark&hide_border=true"
 		media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 	/>
 	<source
-		srcset="https://github-readme-stats.vercel.app/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=light"
+		srcset="https://github-readme-stats.vercel.app/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=light&hide_border=true"
 		media="(prefers-color-scheme: light)"
 	/>
-	<img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=dark"/>
+	<img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=dark&hide_border=true"/>
 </picture>
 <br>
 <picture>
 	<source
-		srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niksnemc&theme=dark"
+		srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niksnemc&theme=dark&layout=compact&hide_border=true"
 		media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 	/>
 	<source
-		srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niksnemc&theme=light"
+		srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=niksnemc&theme=light&layout=compact&hide_border=true"
 		media="(prefers-color-scheme: light)"
 	/>
-	<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niksnemc&theme=dark"/>
+	<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niksnemc&theme=dark&layout=compact&hide_border=true"/>
 </picture>
 <br>
 <a href="https://modrinth.com/user/NikSne" target="_blank">
