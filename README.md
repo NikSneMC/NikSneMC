@@ -38,38 +38,38 @@
 <br>
 <picture>
 	<source 
-		srcset="https://github-readme-stats.niksne.ru/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=transparent_dark&hide_border=true"
+		srcset="https://github-readme-stats.niksne.ru/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=dark&hide_border=true"
 		media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
 	/>
 	<source
-		srcset="https://github-readme-stats.niksne.ru/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=transparent_light&hide_border=true"
+		srcset="https://github-readme-stats.niksne.ru/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=light&hide_border=true"
 		media="(prefers-color-scheme: light)"
 	/>
-	<img alt="My Stats" src="https://github-readme-stats.niksne.ru/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=transparent_dark&hide_border=true"/>
+	<img alt="My Stats" src="https://github-readme-stats.niksne.ru/api?username=niksnemc&custom_title=My+stats:&show_icons=true&theme=dark&hide_border=true"/>
 </picture>
 <br>
 <picture>
 	<source
-		srcset="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=transparent_dark&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=20&hide=xslt%2Ccython%2Cscheme%2cshaderlab%2Cprocessing%2Cnu%2Cjinja&exclude_repo=github-readme-stats%2Cnixpkgs"
+		srcset="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=dark&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=20&hide=xslt%2Ccython%2Cscheme%2cshaderlab%2Cprocessing%2Cnu%2Cjinja&exclude_repo=github-readme-stats%2Cnixpkgs"
 		media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
 	/>
 	<source
-		srcset="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=transparent_light&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=12&hide=xslt%2Ccython%2Cscheme%2cshaderlab%2Cprocessing%2Cnu%2Cjinja&exclude_repo=github-readme-stats%2Cnixpkgs"
+		srcset="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=light&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=12&hide=xslt%2Ccython%2Cscheme%2cshaderlab%2Cprocessing%2Cnu%2Cjinja&exclude_repo=github-readme-stats%2Cnixpkgs"
 		media="(prefers-color-scheme: light)"
 	/>
-	<img alt="Top langs" src="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=transparent_dark&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=12&hide=xslt%2Ccython%2Cscheme%2cshaderlab%2Cprocessing%2Cnu%2Cjinja&exclude_repo=github-readme-stats%2Cnixpkgs"/>
+	<img alt="Top langs" src="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=dark&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=12&hide=xslt%2Ccython%2Cscheme%2cshaderlab%2Cprocessing%2Cnu%2Cjinja&exclude_repo=github-readme-stats%2Cnixpkgs"/>
 </picture>
 <br>
 <picture>
 	<source
-		srcset="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=transparent_dark&layout=compact&hide_border=true&hide=text%2Cini%2Cdiff%2Ccsv%2Ctextmate%2Cpatch%2Cshell%20script%2Cgit%20config%2Chttp%20request%2Cjson%2Cgitignore%20file%2Cgo.mod%2Cnix%20file%2Cgit%2Cgitignore"
+		srcset="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=dark&layout=compact&hide_border=true&hide=text%2Cini%2Cdiff%2Ccsv%2Ctextmate%2Cpatch%2Cshell%20script%2Cgit%20config%2Chttp%20request%2Cjson%2Cgitignore%20file%2Cgo.mod%2Cnix%20file%2Cgit%2Cgitignore"
 		media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
 	/>
 	<source
-		srcset="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=transparent_light&layout=compact&hide_border=true&hide=text%2Cini%2Cdiff%2Ccsv%2Ctextmate%2Cpatch%2Cshell%20script%2Cgit%20config%2Chttp%20request%2Cjson%2Cgitignore%20file%2Cgo.mod%2Cnix%20file%2Cgit%2Cgitignore"
+		srcset="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=light&layout=compact&hide_border=true&hide=text%2Cini%2Cdiff%2Ccsv%2Ctextmate%2Cpatch%2Cshell%20script%2Cgit%20config%2Chttp%20request%2Cjson%2Cgitignore%20file%2Cgo.mod%2Cnix%20file%2Cgit%2Cgitignore"
 		media="(prefers-color-scheme: light)"
 	/>
-	<img alt="WakaTime stats" src="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=transparent_dark&layout=compact&hide_border=true&hide=text%2Cini%2Cdiff%2Ccsv%2Ctextmate%2Cpatch%2Cshell%20script%2Cgit%20config%2Chttp%20request%2Cjson%2Cgitignore%20file%2Cgo.mod%2Cnix%20file%2Cgit%2Cgitignore"/>
+	<img alt="WakaTime stats" src="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=dark&layout=compact&hide_border=true&hide=text%2Cini%2Cdiff%2Ccsv%2Ctextmate%2Cpatch%2Cshell%20script%2Cgit%20config%2Chttp%20request%2Cjson%2Cgitignore%20file%2Cgo.mod%2Cnix%20file%2Cgit%2Cgitignore"/>
 </picture>
 <br>
 <a href="https://modrinth.com/user/NikSne" target="_blank">
@@ -92,14 +92,14 @@
 			<a href="https://github.com/niksnemc/packetauth" target="_blank">
 				<picture>
 					<source
-						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=packetauth&theme=transparent_dark&hide_border=true"
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=packetauth&theme=dark&hide_border=true"
 						media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
 					/>
 					<source
-						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=packetauth&theme=transparent_light&hide_border=true"
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=packetauth&theme=light&hide_border=true"
 						media="(prefers-color-scheme: light)"
 					/>
-					<img alt="Packet Auth" src="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=packetauth&theme=transparent_dark&hide_border=true"/>
+					<img alt="Packet Auth" src="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=packetauth&theme=dark&hide_border=true"/>
 				</picture>
 			</a>
 		</td>
@@ -107,14 +107,14 @@
 			<a href="https://github.com/NikSneMC/vanillarpc" target="_blank">
 				<picture>
 					<source
-						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=vanillarpc&theme=transparent_dark&hide_border=true"
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=vanillarpc&theme=dark&hide_border=true"
 						media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
 					/>
 					<source
-						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=vanillarpc&theme=transparent_light&hide_border=true"
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=vanillarpc&theme=light&hide_border=true"
 						media="(prefers-color-scheme: light)"
 					/>
-					<img alt="Vanilla RPC" src="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=vanillarpc&theme=transparent_dark&hide_border=true"/>
+					<img alt="Vanilla RPC" src="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=vanillarpc&theme=dark&hide_border=true"/>
 				</picture>
 			</a>
 		</td>
@@ -124,14 +124,14 @@
 			<a href="https://github.com/shardmc/arte" target="_blank">
 				<picture>
 					<source
-						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=shardmc&repo=arte&theme=transparent_dark&hide_border=true"
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=shardmc&repo=arte&theme=dark&hide_border=true"
 						media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
 					/>
 					<source
-						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=shardmc&repo=arte&theme=transparent_light&hide_border=true"
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=shardmc&repo=arte&theme=light&hide_border=true"
 						media="(prefers-color-scheme: light)"
 					/>
-					<img alt="Arte" src="https://github-readme-stats.niksne.ru/api/pin/?username=shardmc&repo=arte&theme=transparent_dark&hide_border=true"/>
+					<img alt="Arte" src="https://github-readme-stats.niksne.ru/api/pin/?username=shardmc&repo=arte&theme=dark&hide_border=true"/>
 				</picture>
 			</a>
 		</td>
@@ -139,11 +139,11 @@
 			<a href="https://github.com/niksnemc/prelogin-whitelist" target="_blank">
 				<picture>
 					<source
-						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=transparent_dark&hide_border=true"
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=dark&hide_border=true"
 						media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
 					/>
 					<source
-						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=transparent_light&hide_border=true"
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=light&hide_border=true"
 						media="(prefers-color-scheme: light)"
 					/>
 					<img alt="Pre-Login Whitelist" src="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=transparent_dark&hide_border=true"/>
