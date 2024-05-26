@@ -151,4 +151,21 @@
 			</a>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/niksnemc/splashed" target="_blank">
+				<picture>
+					<source
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=splashed&theme=dark&hide_border=true"
+						media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
+					/>
+					<source
+						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=splashed&theme=light&hide_border=true"
+						media="(prefers-color-scheme: light)"
+					/>
+					<img alt="Pre-Login Whitelist" src="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=splashed&theme=transparent_dark&hide_border=true"/>
+				</picture>
+			</a>
+		</td>
+	</tr>
 </table>
