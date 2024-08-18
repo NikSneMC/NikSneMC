@@ -82,7 +82,7 @@
 			srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=2000&duration=2500&color=000000&vCenter=true&repeat=false&width=435&height=100&lines=My+Modrinth+Projects%3A"
 			media="(prefers-color-scheme: light)"
 		/>
-		<img alt="My Modrinth Projects" src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=2000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=100&lines=My+Plugins%3A"/>
+		<img alt="My Modrinth Projects" src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=2000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=100&lines=My+Modrinth+Projects%3A"/>
 	</picture>
 </a>
 <br>
