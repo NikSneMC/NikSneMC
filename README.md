@@ -146,7 +146,7 @@
 						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=light&hide_border=true"
 						media="(prefers-color-scheme: light)"
 					/>
-					<img alt="Pre-Login Whitelist" src="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=transparent_dark&hide_border=true"/>
+					<img alt="Pre-Login Whitelist" src="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=dark&hide_border=true"/>
 				</picture>
 			</a>
 		</td>
@@ -163,7 +163,7 @@
 						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=splashed&theme=light&hide_border=true"
 						media="(prefers-color-scheme: light)"
 					/>
-					<img alt="Pre-Login Whitelist" src="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=splashed&theme=transparent_dark&hide_border=true"/>
+					<img alt="Pre-Login Whitelist" src="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=splashed&theme=dark&hide_border=true"/>
 				</picture>
 			</a>
 		</td>
