@@ -60,7 +60,17 @@
 	<img alt="Top langs" src="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=dark&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=12&hide=xslt%2Ccython%2Cscheme%2cshaderlab%2Cprocessing%2Cnu%2Cjinja&exclude_repo=github-readme-stats%2Cnixpkgs"/>
 </picture>
 <br>
-
+<picture>
+  <source
+    srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=2000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=100&lines=Recent+Activity%3A"
+    media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=2000&duration=2500&color=000000&vCenter=true&repeat=false&width=435&height=100&lines=Recent+Activity%3A"
+    media="(prefers-color-scheme: light)"
+  />
+  <img alt="Recent Activity:" src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=2000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=100&lines=Recent+Activity%3A"/>
+</picture>
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#15](https://github.com/KaylorBen/nixcord/pull/15) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
