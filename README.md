@@ -61,6 +61,12 @@
 </picture>
 <br>
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#15](https://github.com/KaylorBen/nixcord/pull/15) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
+2. 💪 Opened PR [#14](https://github.com/KaylorBen/nixcord/pull/14) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
+3. ❗ Opened issue [#13](https://github.com/KaylorBen/nixcord/issues/13) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
+4. 🔒 Closed issue [#3](https://github.com/catppuccin/hyprlock/issues/3) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+5. 🎉 Merged PR [#9](https://github.com/catppuccin/hyprlock/pull/9) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+<!--END_SECTION:activity-->
 <br>
 <picture>
 	<source
