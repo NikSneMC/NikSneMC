@@ -60,6 +60,8 @@
 	<img alt="Top langs" src="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=dark&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=12&hide=xslt%2Ccython%2Cscheme%2cshaderlab%2Cprocessing%2Cnu%2Cjinja&exclude_repo=github-readme-stats%2Cnixpkgs"/>
 </picture>
 <br>
+<!--START_SECTION:activity-->
+<br>
 <picture>
 	<source
 		srcset="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=dark&layout=compact&hide_border=true&hide=text%2Cini%2Cdiff%2Ccsv%2Ctextmate%2Cpatch%2Cshell%20script%2Cgit%20config%2Chttp%20request%2Cjson%2Cgitignore%20file%2Cgo.mod%2Cnix%20file%2Cgit%2Cgitignore"
