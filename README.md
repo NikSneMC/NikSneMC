@@ -60,6 +60,8 @@
 	<img alt="Top langs" src="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=dark&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=12&hide=xslt%2Ccython%2Cscheme%2cshaderlab%2Cprocessing%2Cnu%2Cjinja&exclude_repo=github-readme-stats%2Cnixpkgs"/>
 </picture>
 <br>
+
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#15](https://github.com/KaylorBen/nixcord/pull/15) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
 2. 💪 Opened PR [#14](https://github.com/KaylorBen/nixcord/pull/14) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
@@ -67,6 +69,7 @@
 4. 🔒 Closed issue [#3](https://github.com/catppuccin/hyprlock/issues/3) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
 5. 🎉 Merged PR [#9](https://github.com/catppuccin/hyprlock/pull/9) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
 <!--END_SECTION:activity-->
+
 <br>
 <picture>
 	<source
