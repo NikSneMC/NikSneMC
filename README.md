@@ -73,13 +73,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/catppuccin/hyprlock/issues/10) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-2. ❌ Closed PR [#325](https://github.com/catppuccin/nix/pull/325) in [catppuccin/nix](https://github.com/catppuccin/nix)
-3. 💪 Opened PR [#325](https://github.com/catppuccin/nix/pull/325) in [catppuccin/nix](https://github.com/catppuccin/nix)
-4. 🎉 Merged PR [#7](https://github.com/NikSneMC/catppuccin-nix/pull/7) in [NikSneMC/catppuccin-nix](https://github.com/NikSneMC/catppuccin-nix)
-5. 💪 Opened PR [#7](https://github.com/NikSneMC/catppuccin-nix/pull/7) in [NikSneMC/catppuccin-nix](https://github.com/NikSneMC/catppuccin-nix)
-6. 💪 Opened PR [#15](https://github.com/KaylorBen/nixcord/pull/15) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
-7. 💪 Opened PR [#14](https://github.com/KaylorBen/nixcord/pull/14) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
+1. 🗣 Commented on [#6](https://github.com/NikSneMC/NikSOS/issues/6#issuecomment-2328965131) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+2. 🔒 Closed issue [#6](https://github.com/NikSneMC/NikSOS/issues/6) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+3. 🔒 Closed issue [#10](https://github.com/catppuccin/hyprlock/issues/10) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+4. ❌ Closed PR [#325](https://github.com/catppuccin/nix/pull/325) in [catppuccin/nix](https://github.com/catppuccin/nix)
+5. 💪 Opened PR [#325](https://github.com/catppuccin/nix/pull/325) in [catppuccin/nix](https://github.com/catppuccin/nix)
+6. 🎉 Merged PR [#7](https://github.com/NikSneMC/catppuccin-nix/pull/7) in [NikSneMC/catppuccin-nix](https://github.com/NikSneMC/catppuccin-nix)
+7. 💪 Opened PR [#7](https://github.com/NikSneMC/catppuccin-nix/pull/7) in [NikSneMC/catppuccin-nix](https://github.com/NikSneMC/catppuccin-nix)
 <!--END_SECTION:activity-->
 
 <br>
