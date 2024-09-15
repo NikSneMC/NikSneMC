@@ -73,13 +73,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/KaylorBen/nixcord/issues/21#issuecomment-2350890913) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
-2. 🗣 Commented on [#4](https://github.com/ShardMC/arte/issues/4#issuecomment-2348531380) in [ShardMC/arte](https://github.com/ShardMC/arte)
-3. 🗣 Commented on [#4](https://github.com/ShardMC/arte/issues/4#issuecomment-2348092238) in [ShardMC/arte](https://github.com/ShardMC/arte)
-4. 💪 Opened PR [#20](https://github.com/KaylorBen/nixcord/pull/20) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
-5. 🗣 Commented on [#6](https://github.com/NikSneMC/NikSOS/issues/6#issuecomment-2328965131) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-6. 🔒 Closed issue [#6](https://github.com/NikSneMC/NikSOS/issues/6) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-7. 🔒 Closed issue [#10](https://github.com/catppuccin/hyprlock/issues/10) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+1. 🗣 Commented on [#1](https://github.com/NikSneMC/Splashed/issues/1#issuecomment-2351444331) in [NikSneMC/Splashed](https://github.com/NikSneMC/Splashed)
+2. 🗣 Commented on [#21](https://github.com/KaylorBen/nixcord/issues/21#issuecomment-2350890913) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
+3. 🗣 Commented on [#4](https://github.com/ShardMC/arte/issues/4#issuecomment-2348531380) in [ShardMC/arte](https://github.com/ShardMC/arte)
+4. 🗣 Commented on [#4](https://github.com/ShardMC/arte/issues/4#issuecomment-2348092238) in [ShardMC/arte](https://github.com/ShardMC/arte)
+5. 💪 Opened PR [#20](https://github.com/KaylorBen/nixcord/pull/20) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
+6. 🗣 Commented on [#6](https://github.com/NikSneMC/NikSOS/issues/6#issuecomment-2328965131) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+7. 🔒 Closed issue [#6](https://github.com/NikSneMC/NikSOS/issues/6) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
 <!--END_SECTION:activity-->
 
 <br>
