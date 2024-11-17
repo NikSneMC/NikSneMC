@@ -85,14 +85,14 @@
 <br>
 <picture>
 	<source
-		srcset="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=dark&layout=compact&hide_border=true&hide=text%2Cini%2Cdiff%2Ccsv%2Ctextmate%2Cpatch%2Cshell%20script%2Cgit%20config%2Chttp%20request%2Cjson%2Cgitignore%20file%2Cgo.mod%2Cnix%20file%2Cgit%2Cgitignore"
+		srcset="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=dark&layout=compact&hide_border=true"
 		media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
 	/>
 	<source
-		srcset="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=light&layout=compact&hide_border=true&hide=text%2Cini%2Cdiff%2Ccsv%2Ctextmate%2Cpatch%2Cshell%20script%2Cgit%20config%2Chttp%20request%2Cjson%2Cgitignore%20file%2Cgo.mod%2Cnix%20file%2Cgit%2Cgitignore"
+		srcset="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=light&layout=compact&hide_border=true"
 		media="(prefers-color-scheme: light)"
 	/>
-	<img alt="WakaTime stats" src="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=dark&layout=compact&hide_border=true&hide=text%2Cini%2Cdiff%2Ccsv%2Ctextmate%2Cpatch%2Cshell%20script%2Cgit%20config%2Chttp%20request%2Cjson%2Cgitignore%20file%2Cgo.mod%2Cnix%20file%2Cgit%2Cgitignore"/>
+	<img alt="WakaTime stats" src="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=dark&layout=compact&hide_border=true&"/>
 </picture>
 <br>
 <a href="https://modrinth.com/user/NikSne" target="_blank">
