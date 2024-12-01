@@ -1,0 +1,28 @@
+name: Update WakaTime stats in README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # daily
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update this repo's README with WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SECTION_NAME: wakatime
+          COMMIT_BY_ME: true
+          COMMIT_MESSAGE: "chore (README): update wakatime stats"
+          COMMIT_USERNAME: NikSne
+          COMMIT_EMAIL: "commits@niksne.ru"
+          SHOW_UPDATED_DATE: false
+          SHOW_LINES_OF_CODE: true
+          SHOW_DAYS_OF_WEEK: false
+          SHOW_PROJECTS: false
+          SHOW_SHORT_INFO: false
+          SHOW_LOC_CHART: false
+          IGNORED_REPOS: nixpkgs
+

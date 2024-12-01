@@ -145,6 +145,9 @@
   />
   <img alt="My stats:" src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=30&pause=2000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=50&lines=My+stats%3A"/>
 </picture>
+
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
 <picture>
 	<source 
 		srcset="https://github-readme-stats.niksne.ru/api?username=niksnemc&custom_title=&show_icons=true&theme=dark&hide_border=true"
