@@ -113,6 +113,7 @@
 		<img alt="My Discord Status" src="https://discord.c99.nl/widget/theme-4/760511113795207168.png"/>
 	</picture>	
 </a>
+<br>
 <picture>
   <source
     srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=30&pause=2000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=50&lines=Recent+Activity%3A"
