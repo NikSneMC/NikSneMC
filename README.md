@@ -127,13 +127,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/NikSneMC/Splashed/issues/1#issuecomment-2351613586) in [NikSneMC/Splashed](https://github.com/NikSneMC/Splashed)
-2. 🔒 Closed issue [#1](https://github.com/NikSneMC/Splashed/issues/1) in [NikSneMC/Splashed](https://github.com/NikSneMC/Splashed)
-3. 🗣 Commented on [#1](https://github.com/NikSneMC/Splashed/issues/1#issuecomment-2351597630) in [NikSneMC/Splashed](https://github.com/NikSneMC/Splashed)
-4. 🗣 Commented on [#1](https://github.com/NikSneMC/Splashed/issues/1#issuecomment-2351592914) in [NikSneMC/Splashed](https://github.com/NikSneMC/Splashed)
-5. 🗣 Commented on [#1](https://github.com/NikSneMC/Splashed/issues/1#issuecomment-2351444331) in [NikSneMC/Splashed](https://github.com/NikSneMC/Splashed)
-6. 🗣 Commented on [#21](https://github.com/KaylorBen/nixcord/issues/21#issuecomment-2350890913) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
-7. 🗣 Commented on [#4](https://github.com/ShardMC/arte/issues/4#issuecomment-2348531380) in [ShardMC/arte](https://github.com/ShardMC/arte)
+1. 💪 Opened PR [#5](https://github.com/the-unnamed-nug/sherpa/pull/5) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+2. 🎉 Merged PR [#17](https://github.com/NikSneMC/NikSpkgs/pull/17) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+3. 💪 Opened PR [#17](https://github.com/NikSneMC/NikSpkgs/pull/17) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+4. 💪 Opened PR [#4](https://github.com/the-unnamed-nug/sherpa/pull/4) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+5. 💪 Opened PR [#3](https://github.com/the-unnamed-nug/sherpa/pull/3) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+6. 💪 Opened PR [#2](https://github.com/the-unnamed-nug/sherpa/pull/2) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+7. 🗣 Commented on [#360073](https://github.com/NixOS/nixpkgs/issues/360073#issuecomment-2512474862) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
 <picture>
   <source
