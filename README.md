@@ -127,13 +127,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/NikSneMC/NikSpkgs/pull/18) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
-2. 💪 Opened PR [#18](https://github.com/NikSneMC/NikSpkgs/pull/18) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
-3. 💪 Opened PR [#5](https://github.com/the-unnamed-nug/sherpa/pull/5) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
-4. 🎉 Merged PR [#17](https://github.com/NikSneMC/NikSpkgs/pull/17) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
-5. 💪 Opened PR [#17](https://github.com/NikSneMC/NikSpkgs/pull/17) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
-6. 💪 Opened PR [#4](https://github.com/the-unnamed-nug/sherpa/pull/4) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
-7. 💪 Opened PR [#3](https://github.com/the-unnamed-nug/sherpa/pull/3) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+1. 🔒 Closed issue [#9](https://github.com/the-unnamed-nug/sherpa/issues/9) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+2. ❗ Opened issue [#9](https://github.com/the-unnamed-nug/sherpa/issues/9) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+3. 💪 Opened PR [#8](https://github.com/the-unnamed-nug/sherpa/pull/8) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+4. 🎉 Merged PR [#18](https://github.com/NikSneMC/NikSpkgs/pull/18) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+5. 💪 Opened PR [#18](https://github.com/NikSneMC/NikSpkgs/pull/18) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+6. 💪 Opened PR [#5](https://github.com/the-unnamed-nug/sherpa/pull/5) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+7. 🎉 Merged PR [#17](https://github.com/NikSneMC/NikSpkgs/pull/17) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
 <!--END_SECTION:activity-->
 <picture>
   <source
