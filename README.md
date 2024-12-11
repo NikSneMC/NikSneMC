@@ -127,13 +127,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/the-unnamed-nug/sherpa/pull/10#issuecomment-2529986479) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
-2. ❌ Closed PR [#10](https://github.com/the-unnamed-nug/sherpa/pull/10) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
-3. 🎉 Merged PR [#19](https://github.com/NikSneMC/NikSpkgs/pull/19) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
-4. 💪 Opened PR [#19](https://github.com/NikSneMC/NikSpkgs/pull/19) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
-5. 🗣 Commented on [#10](https://github.com/the-unnamed-nug/sherpa/pull/10#issuecomment-2522410056) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
-6. 💪 Opened PR [#10](https://github.com/the-unnamed-nug/sherpa/pull/10) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
-7. 🔒 Closed issue [#9](https://github.com/the-unnamed-nug/sherpa/issues/9) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+1. 💪 Opened PR [#11](https://github.com/NikSneMC/NikSOS/pull/11) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+2. 🗣 Commented on [#10](https://github.com/the-unnamed-nug/sherpa/pull/10#issuecomment-2529986479) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+3. ❌ Closed PR [#10](https://github.com/the-unnamed-nug/sherpa/pull/10) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+4. 🎉 Merged PR [#19](https://github.com/NikSneMC/NikSpkgs/pull/19) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+5. 💪 Opened PR [#19](https://github.com/NikSneMC/NikSpkgs/pull/19) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+6. 🗣 Commented on [#10](https://github.com/the-unnamed-nug/sherpa/pull/10#issuecomment-2522410056) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+7. 💪 Opened PR [#10](https://github.com/the-unnamed-nug/sherpa/pull/10) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
 <!--END_SECTION:activity-->
 <picture>
   <source
