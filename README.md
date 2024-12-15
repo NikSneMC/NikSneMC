@@ -127,13 +127,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2631](https://github.com/catppuccin/catppuccin/pull/2631) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-2. 💪 Opened PR [#11](https://github.com/NikSneMC/NikSOS/pull/11) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-3. 🗣 Commented on [#10](https://github.com/the-unnamed-nug/sherpa/pull/10#issuecomment-2529986479) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
-4. ❌ Closed PR [#10](https://github.com/the-unnamed-nug/sherpa/pull/10) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
-5. 🎉 Merged PR [#19](https://github.com/NikSneMC/NikSpkgs/pull/19) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
-6. 💪 Opened PR [#19](https://github.com/NikSneMC/NikSpkgs/pull/19) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
-7. 🗣 Commented on [#10](https://github.com/the-unnamed-nug/sherpa/pull/10#issuecomment-2522410056) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+1. ❌ Closed PR [#1](https://github.com/NikSneMC/home-manager/pull/1) in [NikSneMC/home-manager](https://github.com/NikSneMC/home-manager)
+2. 💪 Opened PR [#1](https://github.com/NikSneMC/home-manager/pull/1) in [NikSneMC/home-manager](https://github.com/NikSneMC/home-manager)
+3. 💪 Opened PR [#2631](https://github.com/catppuccin/catppuccin/pull/2631) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+4. 💪 Opened PR [#11](https://github.com/NikSneMC/NikSOS/pull/11) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+5. 🗣 Commented on [#10](https://github.com/the-unnamed-nug/sherpa/pull/10#issuecomment-2529986479) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+6. ❌ Closed PR [#10](https://github.com/the-unnamed-nug/sherpa/pull/10) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+7. 🎉 Merged PR [#19](https://github.com/NikSneMC/NikSpkgs/pull/19) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
 <!--END_SECTION:activity-->
 <picture>
   <source
