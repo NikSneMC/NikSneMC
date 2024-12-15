@@ -127,13 +127,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/NikSneMC/home-manager/pull/1) in [NikSneMC/home-manager](https://github.com/NikSneMC/home-manager)
-2. 💪 Opened PR [#1](https://github.com/NikSneMC/home-manager/pull/1) in [NikSneMC/home-manager](https://github.com/NikSneMC/home-manager)
-3. 💪 Opened PR [#2631](https://github.com/catppuccin/catppuccin/pull/2631) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-4. 💪 Opened PR [#11](https://github.com/NikSneMC/NikSOS/pull/11) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-5. 🗣 Commented on [#10](https://github.com/the-unnamed-nug/sherpa/pull/10#issuecomment-2529986479) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
-6. ❌ Closed PR [#10](https://github.com/the-unnamed-nug/sherpa/pull/10) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
-7. 🎉 Merged PR [#19](https://github.com/NikSneMC/NikSpkgs/pull/19) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+1. 🗣 Commented on [#6012](https://github.com/nix-community/home-manager/pull/6012#issuecomment-2543560042) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+2. ❌ Closed PR [#1](https://github.com/NikSneMC/home-manager/pull/1) in [NikSneMC/home-manager](https://github.com/NikSneMC/home-manager)
+3. 💪 Opened PR [#1](https://github.com/NikSneMC/home-manager/pull/1) in [NikSneMC/home-manager](https://github.com/NikSneMC/home-manager)
+4. 💪 Opened PR [#2631](https://github.com/catppuccin/catppuccin/pull/2631) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+5. 💪 Opened PR [#11](https://github.com/NikSneMC/NikSOS/pull/11) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+6. 🗣 Commented on [#10](https://github.com/the-unnamed-nug/sherpa/pull/10#issuecomment-2529986479) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+7. ❌ Closed PR [#10](https://github.com/the-unnamed-nug/sherpa/pull/10) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
 <!--END_SECTION:activity-->
 <picture>
   <source
