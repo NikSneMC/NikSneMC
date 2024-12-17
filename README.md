@@ -148,41 +148,11 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-777%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-780%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                432 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-🌆 Daytime                1275 commits        ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-🌃 Evening                1661 commits        ██████████░░░░░░░░░░░░░░░   38.79 % 
-🌙 Night                  914 commits         █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-Nix                      6 hrs 37 mins       ██████████████░░░░░░░░░░░   56.90 % 
-Python                   1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-JSON                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Rust                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Astro                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-
-🔥 Editors: 
-Neovim                   11 hrs 32 mins      █████████████████████████   99.15 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-
-💻 Operating System: 
-Linux                    11 hrs 38 mins      █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in Python** 
 
