@@ -127,13 +127,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6012](https://github.com/nix-community/home-manager/pull/6012#issuecomment-2543937270) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-2. 🗣 Commented on [#6012](https://github.com/nix-community/home-manager/pull/6012#issuecomment-2543560042) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-3. ❌ Closed PR [#1](https://github.com/NikSneMC/home-manager/pull/1) in [NikSneMC/home-manager](https://github.com/NikSneMC/home-manager)
-4. 💪 Opened PR [#1](https://github.com/NikSneMC/home-manager/pull/1) in [NikSneMC/home-manager](https://github.com/NikSneMC/home-manager)
-5. 💪 Opened PR [#2631](https://github.com/catppuccin/catppuccin/pull/2631) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-6. 💪 Opened PR [#11](https://github.com/NikSneMC/NikSOS/pull/11) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-7. 🗣 Commented on [#10](https://github.com/the-unnamed-nug/sherpa/pull/10#issuecomment-2529986479) in [the-unnamed-nug/sherpa](https://github.com/the-unnamed-nug/sherpa)
+1. 🗣 Commented on [#6](https://github.com/ShardMC/arte/issues/6#issuecomment-2560752360) in [ShardMC/arte](https://github.com/ShardMC/arte)
+2. 🗣 Commented on [#6012](https://github.com/nix-community/home-manager/pull/6012#issuecomment-2543937270) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+3. 🗣 Commented on [#6012](https://github.com/nix-community/home-manager/pull/6012#issuecomment-2543560042) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+4. ❌ Closed PR [#1](https://github.com/NikSneMC/home-manager/pull/1) in [NikSneMC/home-manager](https://github.com/NikSneMC/home-manager)
+5. 💪 Opened PR [#1](https://github.com/NikSneMC/home-manager/pull/1) in [NikSneMC/home-manager](https://github.com/NikSneMC/home-manager)
+6. 💪 Opened PR [#2631](https://github.com/catppuccin/catppuccin/pull/2631) in [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+7. 💪 Opened PR [#11](https://github.com/NikSneMC/NikSOS/pull/11) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
 <!--END_SECTION:activity-->
 <picture>
   <source
