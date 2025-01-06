@@ -148,39 +148,11 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-802%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-803%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                420 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-🌆 Daytime                1230 commits        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-🌃 Evening                1617 commits        ██████████░░░░░░░░░░░░░░░   38.36 % 
-🌙 Night                  948 commits         ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-Nix                      2 hrs 44 mins       ████████████████████████░   96.76 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Elixir                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-🔥 Editors: 
-Neovim                   2 hrs 49 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    2 hrs 49 mins       █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in Python** 
 
