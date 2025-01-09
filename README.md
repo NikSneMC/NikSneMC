@@ -127,13 +127,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/NikSneMC/NikSpkgs/pull/21) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
-2. 💪 Opened PR [#21](https://github.com/NikSneMC/NikSpkgs/pull/21) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
-3. 🎉 Merged PR [#20](https://github.com/NikSneMC/NikSpkgs/pull/20) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
-4. 💪 Opened PR [#20](https://github.com/NikSneMC/NikSpkgs/pull/20) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
-5. 🗣 Commented on [#6](https://github.com/ShardMC/arte/issues/6#issuecomment-2560786584) in [ShardMC/arte](https://github.com/ShardMC/arte)
-6. 🔒 Closed issue [#6](https://github.com/ShardMC/arte/issues/6) in [ShardMC/arte](https://github.com/ShardMC/arte)
-7. 🗣 Commented on [#6](https://github.com/ShardMC/arte/issues/6#issuecomment-2560752360) in [ShardMC/arte](https://github.com/ShardMC/arte)
+1. 🎉 Merged PR [#22](https://github.com/NikSneMC/NikSpkgs/pull/22) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+2. 💪 Opened PR [#22](https://github.com/NikSneMC/NikSpkgs/pull/22) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+3. 🎉 Merged PR [#21](https://github.com/NikSneMC/NikSpkgs/pull/21) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+4. 💪 Opened PR [#21](https://github.com/NikSneMC/NikSpkgs/pull/21) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+5. 🎉 Merged PR [#20](https://github.com/NikSneMC/NikSpkgs/pull/20) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+6. 💪 Opened PR [#20](https://github.com/NikSneMC/NikSpkgs/pull/20) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+7. 🗣 Commented on [#6](https://github.com/ShardMC/arte/issues/6#issuecomment-2560786584) in [ShardMC/arte](https://github.com/ShardMC/arte)
 <!--END_SECTION:activity-->
 <picture>
   <source
