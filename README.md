@@ -127,13 +127,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/NikSneMC/NikSpkgs/pull/20) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
-2. 🗣 Commented on [#6](https://github.com/ShardMC/arte/issues/6#issuecomment-2560786584) in [ShardMC/arte](https://github.com/ShardMC/arte)
-3. 🔒 Closed issue [#6](https://github.com/ShardMC/arte/issues/6) in [ShardMC/arte](https://github.com/ShardMC/arte)
-4. 🗣 Commented on [#6](https://github.com/ShardMC/arte/issues/6#issuecomment-2560752360) in [ShardMC/arte](https://github.com/ShardMC/arte)
-5. 🗣 Commented on [#6012](https://github.com/nix-community/home-manager/pull/6012#issuecomment-2543937270) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-6. ❌ Closed PR [#1](https://github.com/NikSneMC/home-manager/pull/1) in [NikSneMC/home-manager](https://github.com/NikSneMC/home-manager)
-7. 💪 Opened PR [#1](https://github.com/NikSneMC/home-manager/pull/1) in [NikSneMC/home-manager](https://github.com/NikSneMC/home-manager)
+1. 🎉 Merged PR [#21](https://github.com/NikSneMC/NikSpkgs/pull/21) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+2. 💪 Opened PR [#21](https://github.com/NikSneMC/NikSpkgs/pull/21) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+3. 🎉 Merged PR [#20](https://github.com/NikSneMC/NikSpkgs/pull/20) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+4. 💪 Opened PR [#20](https://github.com/NikSneMC/NikSpkgs/pull/20) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+5. 🗣 Commented on [#6](https://github.com/ShardMC/arte/issues/6#issuecomment-2560786584) in [ShardMC/arte](https://github.com/ShardMC/arte)
+6. 🔒 Closed issue [#6](https://github.com/ShardMC/arte/issues/6) in [ShardMC/arte](https://github.com/ShardMC/arte)
+7. 🗣 Commented on [#6](https://github.com/ShardMC/arte/issues/6#issuecomment-2560752360) in [ShardMC/arte](https://github.com/ShardMC/arte)
 <!--END_SECTION:activity-->
 <picture>
   <source
