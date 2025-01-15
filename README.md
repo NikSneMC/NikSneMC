@@ -45,14 +45,14 @@
 </picture>
 <picture>
     <source
-        srcset="https://skillicons.dev/icons?i=rust,actix,tauri,java,kotlin,gradle,spring,c,cpp,arduino,go,python,zig,ts,nodejs,postman,cloudflare,docker,mysql,postgres,mongo,redis,pnpm,astro,tailwind,html,css,vite,react,solidjs,sass,&theme=light"
+        srcset="https://skillicons.dev/icons?i=rust,actix,tauri,java,kotlin,gradle,spring,c,cpp,arduino,go,python,zig,ts,nodejs,postman,cloudflare,docker,mysql,postgres,mongo,redis,pnpm,astro,tailwind,html,css,vite,react,solidjs,svelte,vue,sass,&theme=light"
         media="(prefers-color-scheme: light)"
     />
     <source
-        srcset="https://skillicons.dev/icons?i=rust,actix,tauri,java,kotlin,gradle,spring,c,cpp,arduino,go,python,zig,ts,nodejs,postman,cloudflare,docker,mysql,postgres,mongo,redis,pnpm,astro,tailwind,html,css,vite,react,solidjs,sass,&theme=dark"
+        srcset="https://skillicons.dev/icons?i=rust,actix,tauri,java,kotlin,gradle,spring,c,cpp,arduino,go,python,zig,ts,nodejs,postman,cloudflare,docker,mysql,postgres,mongo,redis,pnpm,astro,tailwind,html,css,vite,react,solidjs,svelte,vue,sass,&theme=dark"
         media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
     />
-    <img alt="Sowtware developer" src="https://skillicons.dev/icons?i=rust,actix,tauri,java,kotlin,gradle,spring,c,cpp,arduino,go,python,zig,ts,nodejs,postman,cloudflare,docker,mysql,postgres,mongo,redis,pnpm,astro,tailwind,html,css,vite,react,solidjs,sass,&theme=dark"/>
+    <img alt="Sowtware developer" src="https://skillicons.dev/icons?i=rust,actix,tauri,java,kotlin,gradle,spring,c,cpp,arduino,go,python,zig,ts,nodejs,postman,cloudflare,docker,mysql,postgres,mongo,redis,pnpm,astro,tailwind,html,css,vite,react,solidjs,svelte,vue,sass,&theme=dark"/>
 </picture>
 <picture>
 	<source
