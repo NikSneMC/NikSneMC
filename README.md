@@ -127,8 +127,8 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/NikSneMC/PreLogin-Whitelist/issues/1#issuecomment-2616114005) in [NikSneMC/PreLogin-Whitelist](https://github.com/NikSneMC/PreLogin-Whitelist)
-2. 🎉 Merged PR [#24](https://github.com/NikSneMC/NikSpkgs/pull/24) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+1. 🗣 Commented on [#374844](https://github.com/NixOS/nixpkgs/pull/374844#issuecomment-2668820898) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#1](https://github.com/NikSneMC/PreLogin-Whitelist/issues/1#issuecomment-2616114005) in [NikSneMC/PreLogin-Whitelist](https://github.com/NikSneMC/PreLogin-Whitelist)
 3. 💪 Opened PR [#24](https://github.com/NikSneMC/NikSpkgs/pull/24) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
 4. 🎉 Merged PR [#23](https://github.com/NikSneMC/NikSpkgs/pull/23) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
 5. 💪 Opened PR [#23](https://github.com/NikSneMC/NikSpkgs/pull/23) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
