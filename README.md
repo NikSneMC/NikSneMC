@@ -127,12 +127,12 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/KaylorBen/nixcord/issues/66#issuecomment-2677115172) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
-2. ❗ Opened issue [#384446](https://github.com/NixOS/nixpkgs/issues/384446) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#66](https://github.com/KaylorBen/nixcord/issues/66#issuecomment-2676669576) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
-4. 🗣 Commented on [#374844](https://github.com/NixOS/nixpkgs/pull/374844#issuecomment-2668820898) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#1](https://github.com/NikSneMC/PreLogin-Whitelist/issues/1#issuecomment-2616114005) in [NikSneMC/PreLogin-Whitelist](https://github.com/NikSneMC/PreLogin-Whitelist)
-6. 🎉 Merged PR [#22](https://github.com/NikSneMC/NikSpkgs/pull/22) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
+1. 🗣 Commented on [#66](https://github.com/KaylorBen/nixcord/issues/66#issuecomment-2677131740) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
+2. 🗣 Commented on [#66](https://github.com/KaylorBen/nixcord/issues/66#issuecomment-2677115172) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
+3. ❗ Opened issue [#384446](https://github.com/NixOS/nixpkgs/issues/384446) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#66](https://github.com/KaylorBen/nixcord/issues/66#issuecomment-2676669576) in [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord)
+5. 🗣 Commented on [#374844](https://github.com/NixOS/nixpkgs/pull/374844#issuecomment-2668820898) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+6. 🗣 Commented on [#1](https://github.com/NikSneMC/PreLogin-Whitelist/issues/1#issuecomment-2616114005) in [NikSneMC/PreLogin-Whitelist](https://github.com/NikSneMC/PreLogin-Whitelist)
 7. 💪 Opened PR [#22](https://github.com/NikSneMC/NikSpkgs/pull/22) in [NikSneMC/NikSpkgs](https://github.com/NikSneMC/NikSpkgs)
 <!--END_SECTION:activity-->
 <picture>
