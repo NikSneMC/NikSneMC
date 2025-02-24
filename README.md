@@ -45,14 +45,14 @@
 </picture>
 <picture>
     <source
-        srcset="https://skillicons.dev/icons?i=rust,actix,tauri,java,kotlin,gradle,spring,c,cpp,arduino,go,python,zig,ts,nodejs,postman,cloudflare,docker,mysql,postgres,mongo,redis,pnpm,astro,tailwind,html,css,vite,react,solidjs,svelte,vue,sass,&theme=light"
+        srcset="https://skillicons.dev/icons?i=rust%2Cactix%2Ctauri%2Cjava%2Ckotlin%2Cgradle%2Cspring%2Cc%2Ccpp%2Carduino%2Cgo%2Cpython%2Czig%2Cts%2Cnodejs%2Cpostman%2Ccloudflare%2Cdocker%2Cmysql%2Cpostgres%2Cmongo%2Credis%2Cpnpm%2Castro%2Ctailwind%2Chtml%2Ccss%2Cvite%2Creact%2Csolidjs%2Csvelte%2Cvue%2Csass%2C&theme=light"
         media="(prefers-color-scheme: light)"
     />
     <source
-        srcset="https://skillicons.dev/icons?i=rust,actix,tauri,java,kotlin,gradle,spring,c,cpp,arduino,go,python,zig,ts,nodejs,postman,cloudflare,docker,mysql,postgres,mongo,redis,pnpm,astro,tailwind,html,css,vite,react,solidjs,svelte,vue,sass,&theme=dark"
+        srcset="https://skillicons.dev/icons?i=rust%2Cactix%2Ctauri%2Cjava%2Ckotlin%2Cgradle%2Cspring%2Cc%2Ccpp%2Carduino%2Cgo%2Cpython%2Czig%2Cts%2Cnodejs%2Cpostman%2Ccloudflare%2Cdocker%2Cmysql%2Cpostgres%2Cmongo%2Credis%2Cpnpm%2Castro%2Ctailwind%2Chtml%2Ccss%2Cvite%2Creact%2Csolidjs%2Csvelte%2Cvue%2Csass%2C&theme=dark"
         media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
     />
-    <img alt="Sowtware developer" src="https://skillicons.dev/icons?i=rust,actix,tauri,java,kotlin,gradle,spring,c,cpp,arduino,go,python,zig,ts,nodejs,postman,cloudflare,docker,mysql,postgres,mongo,redis,pnpm,astro,tailwind,html,css,vite,react,solidjs,svelte,vue,sass,&theme=dark"/>
+    <img alt="Sowtware developer" src="https://skillicons.dev/icons?i=rust%2Cactix%2Ctauri%2Cjava%2Ckotlin%2Cgradle%2Cspring%2Cc%2Ccpp%2Carduino%2Cgo%2Cpython%2Czig%2Cts%2Cnodejs%2Cpostman%2Ccloudflare%2Cdocker%2Cmysql%2Cpostgres%2Cmongo%2Credis%2Cpnpm%2Castro%2Ctailwind%2Chtml%2Ccss%2Cvite%2Creact%2Csolidjs%2Csvelte%2Cvue%2Csass%2C&theme=dark"/>
 </picture>
 <picture>
 	<source
@@ -67,14 +67,14 @@
 </picture>
 <picture>
     <source
-        srcset="https://skillicons.dev/icons?i=nix,linux,raspberrypi,bash,regex,git,github,gitlab,githubactions,neovim,nginx,md,latex,lua,css,gtk,ts,sass,svg,&theme=light"
+        srcset="https://skillicons.dev/icons?i=nix%2Clinux%2Craspberrypi%2Cbash%2Cregex%2Cgit%2Cgithub%2Cgitlab%2Cgithubactions%2Cneovim%2Cnginx%2Cmd%2Clatex%2Clua%2Ccss%2Cgtk%2Cts%2Csass%2Csvg%2C&theme=light"
         media="(prefers-color-scheme: light)"
     />
     <source
-        srcset="https://skillicons.dev/icons?i=nix,linux,raspberrypi,bash,regex,git,github,gitlab,githubactions,neovim,nginx,md,latex,lua,css,gtk,ts,sass,svg,&theme=dark"
+        srcset="https://skillicons.dev/icons?i=nix%2Clinux%2Craspberrypi%2Cbash%2Cregex%2Cgit%2Cgithub%2Cgitlab%2Cgithubactions%2Cneovim%2Cnginx%2Cmd%2Clatex%2Clua%2Ccss%2Cgtk%2Cts%2Csass%2Csvg%2C&theme=dark"
         media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
     />
-    <img alt = "Linux and Open-Source enthusiast" src="https://skillicons.dev/icons?i=nix,linux,raspberrypi,bash,regex,git,github,gitlab,githubactions,neovim,nginx,md,latex,lua,css,gtk,ts,sass,svg,"/>
+    <img alt = "Linux and Open-Source enthusiast" src="https://skillicons.dev/icons?i=nix%2Clinux%2Craspberrypi%2Cbash%2Cregex%2Cgit%2Cgithub%2Cgitlab%2Cgithubactions%2Cneovim%2Cnginx%2Cmd%2Clatex%2Clua%2Ccss%2Cgtk%2Cts%2Csass%2Csvg%2C"/>
 </picture>
 <picture>
 	<source
@@ -90,14 +90,14 @@
 <br>
 <picture>
     <source
-        srcset="https://skillicons.dev/icons?i=discord,stackoverflow,devto,mastodon,fediverse,twitter,&theme=light"
+        srcset="https://skillicons.dev/icons?i=discord%2Cstackoverflow%2Cdevto%2Cmastodon%2Cfediverse%2Ctwitter%2C&theme=light"
         media="(prefers-color-scheme: light)"
     />
     <source
-        srcset="https://skillicons.dev/icons?i=discord,stackoverflow,devto,mastodon,fediverse,twitter,&theme=dark"
+        srcset="https://skillicons.dev/icons?i=discord%2Cstackoverflow%2Cdevto%2Cmastodon%2Cfediverse%2Ctwitter%2C&theme=dark"
         media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
     />
-    <img alt = "little bit social" src="https://skillicons.dev/icons?i=discord,stackoverflow,devto,mastodon,fediverse,twitter"/>
+    <img alt = "little bit social" src="https://skillicons.dev/icons?i=discord%2Cstackoverflow%2Cdevto%2Cmastodon%2Cfediverse%2Ctwitter"/>
 </picture>
 <br>
 <a href="https://discord.com/invite/hGxQgrYTD3" target="_blank">
