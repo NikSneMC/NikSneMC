@@ -127,13 +127,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/NikSneMC/NikSOS/pull/12) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-2. 💪 Opened PR [#13](https://github.com/catppuccin/hyprlock/pull/13) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-3. ❗ Opened issue [#12](https://github.com/catppuccin/hyprlock/issues/12) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-4. ❗ Opened issue [#11](https://github.com/catppuccin/hyprlock/issues/11) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-5. 🗣 Commented on [#459](https://github.com/catppuccin/nix/issues/459#issuecomment-2680771224) in [catppuccin/nix](https://github.com/catppuccin/nix)
-6. 🗣 Commented on [#459](https://github.com/catppuccin/nix/issues/459#issuecomment-2680728510) in [catppuccin/nix](https://github.com/catppuccin/nix)
-7. 🗣 Commented on [#464](https://github.com/catppuccin/nix/issues/464#issuecomment-2680700848) in [catppuccin/nix](https://github.com/catppuccin/nix)
+1. 🚀 Published release [v0.1.0](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.1.0) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
+2. ❌ Closed PR [#12](https://github.com/NikSneMC/NikSOS/pull/12) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+3. 💪 Opened PR [#13](https://github.com/catppuccin/hyprlock/pull/13) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+4. ❗ Opened issue [#12](https://github.com/catppuccin/hyprlock/issues/12) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+5. ❗ Opened issue [#11](https://github.com/catppuccin/hyprlock/issues/11) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+6. 🗣 Commented on [#459](https://github.com/catppuccin/nix/issues/459#issuecomment-2680771224) in [catppuccin/nix](https://github.com/catppuccin/nix)
+7. 🗣 Commented on [#459](https://github.com/catppuccin/nix/issues/459#issuecomment-2680728510) in [catppuccin/nix](https://github.com/catppuccin/nix)
 <!--END_SECTION:activity-->
 <picture>
   <source
