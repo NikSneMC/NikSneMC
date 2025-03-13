@@ -15,7 +15,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SECTION_NAME: wakatime
           COMMIT_BY_ME: true
-          COMMIT_MESSAGE: "chore (README): update wakatime stats"
+          COMMIT_MESSAGE: "chore(README): update wakatime stats"
           COMMIT_USERNAME: NikSne
           COMMIT_EMAIL: "commits@niksne.ru"
           SHOW_UPDATED_DATE: false
