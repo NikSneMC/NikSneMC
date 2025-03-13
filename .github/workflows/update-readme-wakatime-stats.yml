@@ -20,6 +20,7 @@ jobs:
           COMMIT_EMAIL: "commits@niksne.ru"
           SHOW_UPDATED_DATE: false
           SHOW_LINES_OF_CODE: true
+          SHOW_PROFILE_VIEWS: false
           SHOW_DAYS_OF_WEEK: false
           SHOW_PROJECTS: false
           SHOW_SHORT_INFO: false
