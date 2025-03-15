@@ -138,13 +138,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#11](https://github.com/catppuccin/hyprlock/issues/11) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-2. 🎉 Merged PR [#14](https://github.com/catppuccin/hyprlock/pull/14) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-3. 🗣 Commented on [#14](https://github.com/catppuccin/hyprlock/pull/14#issuecomment-2721223872) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-4. 🗣 Commented on [#14](https://github.com/catppuccin/hyprlock/pull/14#issuecomment-2721195711) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-5. 🚀 Published release [v0.1.0](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.1.0) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
-6. ❌ Closed PR [#12](https://github.com/NikSneMC/NikSOS/pull/12) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-7. 💪 Opened PR [#13](https://github.com/catppuccin/hyprlock/pull/13) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+1. 🚀 Published release [v0.2.0](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.2.0) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
+2. 🔒 Closed issue [#11](https://github.com/catppuccin/hyprlock/issues/11) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+3. 🎉 Merged PR [#14](https://github.com/catppuccin/hyprlock/pull/14) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+4. 🗣 Commented on [#14](https://github.com/catppuccin/hyprlock/pull/14#issuecomment-2721223872) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+5. 🗣 Commented on [#14](https://github.com/catppuccin/hyprlock/pull/14#issuecomment-2721195711) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+6. 🚀 Published release [v0.1.0](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.1.0) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
+7. ❌ Closed PR [#12](https://github.com/NikSneMC/NikSOS/pull/12) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
 <picture>
