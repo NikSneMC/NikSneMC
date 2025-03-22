@@ -138,13 +138,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.2.0) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
-2. 🔒 Closed issue [#11](https://github.com/catppuccin/hyprlock/issues/11) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-3. 🎉 Merged PR [#14](https://github.com/catppuccin/hyprlock/pull/14) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-4. 🗣 Commented on [#14](https://github.com/catppuccin/hyprlock/pull/14#issuecomment-2721223872) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-5. 🗣 Commented on [#14](https://github.com/catppuccin/hyprlock/pull/14#issuecomment-2721195711) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-6. 🚀 Published release [v0.1.0](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.1.0) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
-7. ❌ Closed PR [#12](https://github.com/NikSneMC/NikSOS/pull/12) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+1. 🗣 Commented on [#514](https://github.com/catppuccin/nix/pull/514#issuecomment-2745033179) in [catppuccin/nix](https://github.com/catppuccin/nix)
+2. 🚀 Published release [v0.2.0](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.2.0) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
+3. 🔒 Closed issue [#11](https://github.com/catppuccin/hyprlock/issues/11) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+4. 🎉 Merged PR [#14](https://github.com/catppuccin/hyprlock/pull/14) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+5. 🗣 Commented on [#14](https://github.com/catppuccin/hyprlock/pull/14#issuecomment-2721223872) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+6. 🗣 Commented on [#14](https://github.com/catppuccin/hyprlock/pull/14#issuecomment-2721195711) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+7. 🚀 Published release [v0.1.0](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.1.0) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
 <picture>
