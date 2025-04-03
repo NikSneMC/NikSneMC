@@ -138,13 +138,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.1](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.3.1) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
-2. 🚀 Published release [v0.3.0](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.3.0) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
-3. 🗣 Commented on [#514](https://github.com/catppuccin/nix/pull/514#issuecomment-2745033179) in [catppuccin/nix](https://github.com/catppuccin/nix)
-4. 🚀 Published release [v0.2.0](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.2.0) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
-5. 🔒 Closed issue [#11](https://github.com/catppuccin/hyprlock/issues/11) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-6. 🎉 Merged PR [#14](https://github.com/catppuccin/hyprlock/pull/14) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-7. 🗣 Commented on [#14](https://github.com/catppuccin/hyprlock/pull/14#issuecomment-2721223872) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+1. 💪 Opened PR [#7](https://github.com/catppuccin/rio/pull/7) in [catppuccin/rio](https://github.com/catppuccin/rio)
+2. 🚀 Published release [v0.3.1](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.3.1) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
+3. 🚀 Published release [v0.3.0](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.3.0) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
+4. 🗣 Commented on [#514](https://github.com/catppuccin/nix/pull/514#issuecomment-2745033179) in [catppuccin/nix](https://github.com/catppuccin/nix)
+5. 🚀 Published release [v0.2.0](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.2.0) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
+6. 🔒 Closed issue [#11](https://github.com/catppuccin/hyprlock/issues/11) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+7. 🎉 Merged PR [#14](https://github.com/catppuccin/hyprlock/pull/14) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
 <picture>
