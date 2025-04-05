@@ -138,13 +138,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/catppuccin/rio/pull/7#issuecomment-2779053250) in [catppuccin/rio](https://github.com/catppuccin/rio)
-2. 💪 Opened PR [#7](https://github.com/catppuccin/rio/pull/7) in [catppuccin/rio](https://github.com/catppuccin/rio)
-3. 🚀 Published release [v0.3.1](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.3.1) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
-4. 🚀 Published release [v0.3.0](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.3.0) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
-5. 🗣 Commented on [#514](https://github.com/catppuccin/nix/pull/514#issuecomment-2745033179) in [catppuccin/nix](https://github.com/catppuccin/nix)
-6. 🚀 Published release [v0.2.0](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.2.0) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
-7. 🔒 Closed issue [#11](https://github.com/catppuccin/hyprlock/issues/11) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+1. 💪 Opened PR [#366](https://github.com/3Hren/msgpack-rust/pull/366) in [3Hren/msgpack-rust](https://github.com/3Hren/msgpack-rust)
+2. 🗣 Commented on [#7](https://github.com/catppuccin/rio/pull/7#issuecomment-2779053250) in [catppuccin/rio](https://github.com/catppuccin/rio)
+3. 💪 Opened PR [#7](https://github.com/catppuccin/rio/pull/7) in [catppuccin/rio](https://github.com/catppuccin/rio)
+4. 🚀 Published release [v0.3.1](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.3.1) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
+5. 🚀 Published release [v0.3.0](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.3.0) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
+6. 🗣 Commented on [#514](https://github.com/catppuccin/nix/pull/514#issuecomment-2745033179) in [catppuccin/nix](https://github.com/catppuccin/nix)
+7. 🚀 Published release [v0.2.0](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.2.0) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
 <picture>
