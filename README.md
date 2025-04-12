@@ -236,14 +236,14 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- GitHub stats: wakatime -->
 <picture>
 	<source
-		srcset="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=dark&layout=compact&hide_border=true"
+		srcset="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=dark&layout=compact&hide_border=true&langs_count=16"
 		media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
 	/>
 	<source
-		srcset="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=light&layout=compact&hide_border=true"
+		srcset="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=light&layout=compact&hide_border=true&langs_count=16"
 		media="(prefers-color-scheme: light)"
 	/>
-	<img alt="WakaTime stats" src="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=dark&layout=compact&hide_border=true&"/>
+	<img alt="WakaTime stats" src="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=dark&layout=compact&hide_border=true&langs_count=16"/>
 </picture>
 <br>
 <!-- Modrinth projects: label -->
