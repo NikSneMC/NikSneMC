@@ -138,13 +138,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/NikSneMC/PacketAuth/pull/5) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
-2. 🗣 Commented on [#5](https://github.com/NikSneMC/PacketAuth/pull/5#issuecomment-2885270755) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
-3. 💪 Opened PR [#109](https://github.com/importcjj/mobc/pull/109) in [importcjj/mobc](https://github.com/importcjj/mobc)
-4. 💪 Opened PR [#108](https://github.com/importcjj/mobc/pull/108) in [importcjj/mobc](https://github.com/importcjj/mobc)
-5. 💪 Opened PR [#1](https://github.com/noah123dkg/mobc-surrealdb/pull/1) in [noah123dkg/mobc-surrealdb](https://github.com/noah123dkg/mobc-surrealdb)
-6. 🗣 Commented on [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2823798775) in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
-7. 🚀 Published release [v0.3.0](https://github.com/NikSneMC/env-vars-config/releases/tag/v0.3.0) in [NikSneMC/env-vars-config](https://github.com/NikSneMC/env-vars-config)
+1. 🎉 Merged PR [#1](https://github.com/NikSneMC/NikSVim/pull/1) in [NikSneMC/NikSVim](https://github.com/NikSneMC/NikSVim)
+2. 💪 Opened PR [#1](https://github.com/NikSneMC/NikSVim/pull/1) in [NikSneMC/NikSVim](https://github.com/NikSneMC/NikSVim)
+3. 🎉 Merged PR [#5](https://github.com/NikSneMC/PacketAuth/pull/5) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
+4. 🗣 Commented on [#5](https://github.com/NikSneMC/PacketAuth/pull/5#issuecomment-2885270755) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
+5. 💪 Opened PR [#109](https://github.com/importcjj/mobc/pull/109) in [importcjj/mobc](https://github.com/importcjj/mobc)
+6. 💪 Opened PR [#108](https://github.com/importcjj/mobc/pull/108) in [importcjj/mobc](https://github.com/importcjj/mobc)
+7. 💪 Opened PR [#1](https://github.com/noah123dkg/mobc-surrealdb/pull/1) in [noah123dkg/mobc-surrealdb](https://github.com/noah123dkg/mobc-surrealdb)
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
 <picture>
