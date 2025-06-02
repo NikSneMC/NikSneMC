@@ -138,13 +138,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/spring-rs/contrib-plugins/pull/3#issuecomment-2919816653) in [spring-rs/contrib-plugins](https://github.com/spring-rs/contrib-plugins)
-2. 🗣 Commented on [#106](https://github.com/spring-rs/spring-rs/issues/106#issuecomment-2919780224) in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
-3. 💪 Opened PR [#3](https://github.com/spring-rs/contrib-plugins/pull/3) in [spring-rs/contrib-plugins](https://github.com/spring-rs/contrib-plugins)
-4. 🎉 Merged PR [#1](https://github.com/NikSneMC/NikSVim/pull/1) in [NikSneMC/NikSVim](https://github.com/NikSneMC/NikSVim)
-5. 💪 Opened PR [#1](https://github.com/NikSneMC/NikSVim/pull/1) in [NikSneMC/NikSVim](https://github.com/NikSneMC/NikSVim)
-6. 🎉 Merged PR [#5](https://github.com/NikSneMC/PacketAuth/pull/5) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
-7. 🗣 Commented on [#5](https://github.com/NikSneMC/PacketAuth/pull/5#issuecomment-2885270755) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
+1. 🗣 Commented on [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2930969953) in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
+2. 🎉 Merged PR [#17](https://github.com/catppuccin/hyprlock/pull/17) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+3. 🗣 Commented on [#17](https://github.com/catppuccin/hyprlock/pull/17#issuecomment-2930961253) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+4. 🗣 Commented on [#3](https://github.com/spring-rs/contrib-plugins/pull/3#issuecomment-2919816653) in [spring-rs/contrib-plugins](https://github.com/spring-rs/contrib-plugins)
+5. 🗣 Commented on [#106](https://github.com/spring-rs/spring-rs/issues/106#issuecomment-2919780224) in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
+6. 💪 Opened PR [#3](https://github.com/spring-rs/contrib-plugins/pull/3) in [spring-rs/contrib-plugins](https://github.com/spring-rs/contrib-plugins)
+7. 🎉 Merged PR [#1](https://github.com/NikSneMC/NikSVim/pull/1) in [NikSneMC/NikSVim](https://github.com/NikSneMC/NikSVim)
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
 <picture>
