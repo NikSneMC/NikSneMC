@@ -138,13 +138,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2930969953) in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
-2. 🎉 Merged PR [#17](https://github.com/catppuccin/hyprlock/pull/17) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-3. 🗣 Commented on [#17](https://github.com/catppuccin/hyprlock/pull/17#issuecomment-2930961253) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-4. 🗣 Commented on [#3](https://github.com/spring-rs/contrib-plugins/pull/3#issuecomment-2919816653) in [spring-rs/contrib-plugins](https://github.com/spring-rs/contrib-plugins)
-5. 🗣 Commented on [#106](https://github.com/spring-rs/spring-rs/issues/106#issuecomment-2919780224) in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
-6. 💪 Opened PR [#3](https://github.com/spring-rs/contrib-plugins/pull/3) in [spring-rs/contrib-plugins](https://github.com/spring-rs/contrib-plugins)
-7. 🎉 Merged PR [#1](https://github.com/NikSneMC/NikSVim/pull/1) in [NikSneMC/NikSVim](https://github.com/NikSneMC/NikSVim)
+1. 🗣 Commented on [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953313501) in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
+2. 🗣 Commented on [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953311906) in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
+3. 💪 Opened PR [#1](https://github.com/a-usr/sherpa-content/pull/1) in [a-usr/sherpa-content](https://github.com/a-usr/sherpa-content)
+4. 🗣 Commented on [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2930969953) in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
+5. 🎉 Merged PR [#17](https://github.com/catppuccin/hyprlock/pull/17) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+6. 🗣 Commented on [#17](https://github.com/catppuccin/hyprlock/pull/17#issuecomment-2930961253) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+7. 🗣 Commented on [#3](https://github.com/spring-rs/contrib-plugins/pull/3#issuecomment-2919816653) in [spring-rs/contrib-plugins](https://github.com/spring-rs/contrib-plugins)
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
 <picture>
