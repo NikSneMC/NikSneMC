@@ -138,13 +138,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#142](https://github.com/spring-rs/spring-rs/issues/142) in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
-2. 🗣 Commented on [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953313501) in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
-3. 🗣 Commented on [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953311906) in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
-4. 💪 Opened PR [#1](https://github.com/a-usr/sherpa-content/pull/1) in [a-usr/sherpa-content](https://github.com/a-usr/sherpa-content)
-5. 🗣 Commented on [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2930969953) in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
-6. 🎉 Merged PR [#17](https://github.com/catppuccin/hyprlock/pull/17) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-7. 🗣 Commented on [#17](https://github.com/catppuccin/hyprlock/pull/17#issuecomment-2930961253) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+1. 💪 Opened PR [#4](https://github.com/spring-rs/contrib-plugins/pull/4) in [spring-rs/contrib-plugins](https://github.com/spring-rs/contrib-plugins)
+2. ❗ Opened issue [#142](https://github.com/spring-rs/spring-rs/issues/142) in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
+3. 🗣 Commented on [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953313501) in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
+4. 🗣 Commented on [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953311906) in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
+5. 💪 Opened PR [#1](https://github.com/a-usr/sherpa-content/pull/1) in [a-usr/sherpa-content](https://github.com/a-usr/sherpa-content)
+6. 🗣 Commented on [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2930969953) in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
+7. 🎉 Merged PR [#17](https://github.com/catppuccin/hyprlock/pull/17) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
 <picture>
