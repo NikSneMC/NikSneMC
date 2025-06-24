@@ -138,13 +138,13 @@
 </picture>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/spring-rs/spring-rs/issues/142#issuecomment-2970275532) in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
-2. 💪 Opened PR [#4](https://github.com/spring-rs/contrib-plugins/pull/4) in [spring-rs/contrib-plugins](https://github.com/spring-rs/contrib-plugins)
-3. ❗ Opened issue [#142](https://github.com/spring-rs/spring-rs/issues/142) in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
-4. 🗣 Commented on [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953313501) in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
-5. 🗣 Commented on [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953311906) in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
-6. 💪 Opened PR [#1](https://github.com/a-usr/sherpa-content/pull/1) in [a-usr/sherpa-content](https://github.com/a-usr/sherpa-content)
-7. 🗣 Commented on [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2930969953) in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
+1. ❗ Opened issue [#6049](https://github.com/scalar/scalar/issues/6049) in [scalar/scalar](https://github.com/scalar/scalar)
+2. 🗣 Commented on [#142](https://github.com/spring-rs/spring-rs/issues/142#issuecomment-2970275532) in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
+3. 💪 Opened PR [#4](https://github.com/spring-rs/contrib-plugins/pull/4) in [spring-rs/contrib-plugins](https://github.com/spring-rs/contrib-plugins)
+4. ❗ Opened issue [#142](https://github.com/spring-rs/spring-rs/issues/142) in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
+5. 🗣 Commented on [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953313501) in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
+6. 🗣 Commented on [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953311906) in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
+7. 💪 Opened PR [#1](https://github.com/a-usr/sherpa-content/pull/1) in [a-usr/sherpa-content](https://github.com/a-usr/sherpa-content)
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
 <picture>
