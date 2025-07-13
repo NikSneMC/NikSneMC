@@ -53,9 +53,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on
-   [#648](https://github.com/muety/wakapi/issues/648#issuecomment-3031879620) in
-   [muety/wakapi](https://github.com/muety/wakapi)
+1. 🗣 Commented on [#648](https://github.com/muety/wakapi/issues/648#issuecomment-3031879620) in [muety/wakapi](https://github.com/muety/wakapi)
+2. ❗ Opened issue [#6049](https://github.com/scalar/scalar/issues/6049) in [scalar/scalar](https://github.com/scalar/scalar)
+3. 🗣 Commented on [#142](https://github.com/spring-rs/spring-rs/issues/142#issuecomment-2970275532) in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
 2. ❗ Opened issue [#6049](https://github.com/scalar/scalar/issues/6049) in
    [scalar/scalar](https://github.com/scalar/scalar)
 3. 🗣 Commented on
