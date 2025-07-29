@@ -53,7 +53,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on
+1. 🗣 Commented on [#648](https://github.com/muety/wakapi/issues/648#issuecomment-3031879620) in [muety/wakapi](https://github.com/muety/wakapi)
    [#648](https://github.com/muety/wakapi/issues/648#issuecomment-3031879620) in
    [muety/wakapi](https://github.com/muety/wakapi)
 2. ❗ Opened issue [#6049](https://github.com/scalar/scalar/issues/6049) in
