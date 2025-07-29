@@ -53,22 +53,27 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#648](https://github.com/muety/wakapi/issues/648#issuecomment-3031879620) in [muety/wakapi](https://github.com/muety/wakapi)
-2. ❗ Opened issue [#6049](https://github.com/scalar/scalar/issues/6049) in [scalar/scalar](https://github.com/scalar/scalar)
-3. 🗣 Commented on [#142](https://github.com/spring-rs/spring-rs/issues/142#issuecomment-2970275532) in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
+1. 🗣 Commented on
+   [#648](https://github.com/muety/wakapi/issues/648#issuecomment-3031879620) in
+   [muety/wakapi](https://github.com/muety/wakapi)
 2. ❗ Opened issue [#6049](https://github.com/scalar/scalar/issues/6049) in
    [scalar/scalar](https://github.com/scalar/scalar)
 3. 🗣 Commented on
    [#142](https://github.com/spring-rs/spring-rs/issues/142#issuecomment-2970275532)
    in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
-4. 💪 Opened PR [#4](https://github.com/spring-rs/contrib-plugins/pull/4) in
+4. ❗ Opened issue [#6049](https://github.com/scalar/scalar/issues/6049) in
+   [scalar/scalar](https://github.com/scalar/scalar)
+5. 🗣 Commented on
+   [#142](https://github.com/spring-rs/spring-rs/issues/142#issuecomment-2970275532)
+   in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
+6. 💪 Opened PR [#4](https://github.com/spring-rs/contrib-plugins/pull/4) in
    [spring-rs/contrib-plugins](https://github.com/spring-rs/contrib-plugins)
-5. ❗ Opened issue [#142](https://github.com/spring-rs/spring-rs/issues/142) in
+7. ❗ Opened issue [#142](https://github.com/spring-rs/spring-rs/issues/142) in
    [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
-6. 🗣 Commented on
+8. 🗣 Commented on
    [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953313501)
    in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
-7. 🗣 Commented on
+9. 🗣 Commented on
    [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953311906)
    in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
 
@@ -76,22 +81,23 @@
 <!-- Wakatime stats: label -->
 <picture>
   <source
-    srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=30&pause=2000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=50&lines=My+stats%3A"
+    srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=30&pause=2000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=50&lines=Some+stats%3A"
     media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=30&pause=2000&duration=2500&color=000000&vCenter=true&repeat=false&width=435&height=50&lines=My+stats%3A"
+    srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=30&pause=2000&duration=2500&color=000000&vCenter=true&repeat=false&width=435&height=50&lines=Some+stats%3A"
     media="(prefers-color-scheme: light)"
   />
-  <img alt="My stats:" src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=30&pause=2000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=50&lines=My+stats%3A"/>
+  <img alt="My stats:" src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=30&pause=2000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=50&lines=Some+stats%3A"/>
 </picture>
 
 <!--START_SECTION:wakatime-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C508%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 💬 Programming Languages: 
@@ -99,9 +105,8 @@ Other                    11 hrs 50 mins      █████████░░�
 Nix                      6 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
 Rust                     5 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
 Haskell                  5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-CSS                      1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+CSS                      1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
 ```
-
 
 <!--END_SECTION:wakatime-->
 <!-- GitHub stats: account -->
