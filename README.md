@@ -53,8 +53,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on
-   [#11](https://github.com/NikSneMC/NikSOS/pull/11#issuecomment-3161661181) in
+1. 🗣 Commented on [#11](https://github.com/NikSneMC/NikSOS/pull/11#issuecomment-3161661181) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+2. ❌ Closed PR [#11](https://github.com/NikSneMC/NikSOS/pull/11) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
    [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
 2. ❌ Closed PR [#11](https://github.com/NikSneMC/NikSOS/pull/11) in
    [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
