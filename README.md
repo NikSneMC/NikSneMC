@@ -53,8 +53,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#648](https://github.com/muety/wakapi/issues/648#issuecomment-3031879620) in [muety/wakapi](https://github.com/muety/wakapi)
-   [#648](https://github.com/muety/wakapi/issues/648#issuecomment-3031879620) in
+1. 🗣 Commented on [#11](https://github.com/NikSneMC/NikSOS/pull/11#issuecomment-3161661181) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+2. ❌ Closed PR [#11](https://github.com/NikSneMC/NikSOS/pull/11) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
    [muety/wakapi](https://github.com/muety/wakapi)
 2. ❗ Opened issue [#6049](https://github.com/scalar/scalar/issues/6049) in
    [scalar/scalar](https://github.com/scalar/scalar)
