@@ -125,19 +125,6 @@ TOML                     12 mins             ░░░░░░░░░░░�
 	<img alt="My Stats" src="https://github-readme-stats.niksne.ru/api?username=niksnemc&custom_title=&show_icons=true&theme=dark&hide_border=true"/>
 </picture>
 <br>
-<!-- GitHub stats: langs -->
-<picture>
-	<source
-		srcset="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=dark&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=20&hide=xslt%2Ccython%2Cscheme%2cshaderlab%2Cprocessing%2Cnu%2Cjinja&exclude_repo=github-readme-stats%2Cnixpkgs"
-		media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
-	/>
-	<source
-		srcset="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=light&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=12&hide=xslt%2Ccython%2Cscheme%2cshaderlab%2Cprocessing%2Cnu%2Cjinja&exclude_repo=github-readme-stats%2Cnixpkgs"
-		media="(prefers-color-scheme: light)"
-	/>
-	<img alt="Top langs" src="https://github-readme-stats.niksne.ru/api/top-langs/?username=niksnemc&theme=dark&layout=compact&hide_border=true&size_weight=0.5&count_weight=0.5&langs_count=12&hide=xslt%2Ccython%2Cscheme%2cshaderlab%2Cprocessing%2Cnu%2Cjinja&exclude_repo=github-readme-stats%2Cnixpkgs"/>
-</picture>
-<br>
 <!-- GitHub stats: wakatime -->
 <picture>
 	<source
