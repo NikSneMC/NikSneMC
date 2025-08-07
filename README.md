@@ -53,29 +53,32 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11](https://github.com/NikSneMC/NikSOS/pull/11#issuecomment-3161661181) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-2. ❌ Closed PR [#11](https://github.com/NikSneMC/NikSOS/pull/11) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+1. 🗣 Commented on
+   [#11](https://github.com/NikSneMC/NikSOS/pull/11#issuecomment-3161661181) in
+   [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+2. ❌ Closed PR [#11](https://github.com/NikSneMC/NikSOS/pull/11) in
+   [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
    [muety/wakapi](https://github.com/muety/wakapi)
-2. ❗ Opened issue [#6049](https://github.com/scalar/scalar/issues/6049) in
+3. ❗ Opened issue [#6049](https://github.com/scalar/scalar/issues/6049) in
    [scalar/scalar](https://github.com/scalar/scalar)
-3. 🗣 Commented on
+4. 🗣 Commented on
    [#142](https://github.com/spring-rs/spring-rs/issues/142#issuecomment-2970275532)
    in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
-4. ❗ Opened issue [#6049](https://github.com/scalar/scalar/issues/6049) in
+5. ❗ Opened issue [#6049](https://github.com/scalar/scalar/issues/6049) in
    [scalar/scalar](https://github.com/scalar/scalar)
-5. 🗣 Commented on
+6. 🗣 Commented on
    [#142](https://github.com/spring-rs/spring-rs/issues/142#issuecomment-2970275532)
    in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
-6. 💪 Opened PR [#4](https://github.com/spring-rs/contrib-plugins/pull/4) in
+7. 💪 Opened PR [#4](https://github.com/spring-rs/contrib-plugins/pull/4) in
    [spring-rs/contrib-plugins](https://github.com/spring-rs/contrib-plugins)
-7. ❗ Opened issue [#142](https://github.com/spring-rs/spring-rs/issues/142) in
+8. ❗ Opened issue [#142](https://github.com/spring-rs/spring-rs/issues/142) in
    [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
-8. 🗣 Commented on
+9. 🗣 Commented on
    [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953313501)
    in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
-9. 🗣 Commented on
-   [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953311906)
-   in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
+10. 🗣 Commented on
+    [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953311906)
+    in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
 
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
@@ -92,11 +95,12 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C542%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 💬 Programming Languages: 
@@ -104,9 +108,8 @@ Rust                     10 hrs 14 mins      ███████████�
 Nix                      4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
 Other                    3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 CSS                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-TOML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+TOML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
-
 
 <!--END_SECTION:wakatime-->
 <!-- GitHub stats: account -->
@@ -148,104 +151,3 @@ TOML                     12 mins             ░░░░░░░░░░░�
 	<img alt="WakaTime stats" src="https://github-readme-stats.niksne.ru/api/wakatime?username=niksne&theme=dark&layout=compact&hide_border=true&langs_count=16"/>
 </picture>
 <br>
-<!-- Modrinth projects: label -->
-<a href="https://modrinth.com/user/NikSne" target="_blank">
-	<picture>
-		<source
-			srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=2000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=100&lines=My+Modrinth+Projects%3A"
-			media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
-		/>
-		<source
-			srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=2000&duration=2500&color=000000&vCenter=true&repeat=false&width=435&height=100&lines=My+Modrinth+Projects%3A"
-			media="(prefers-color-scheme: light)"
-		/>
-		<img alt="My Modrinth Projects" src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=2000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=435&height=100&lines=My+Modrinth+Projects%3A"/>
-	</picture>
-</a>
-<br>
-<!-- Modrinth projects: table -->
-<table>
-	<tr>
-		<td>
-			<a href="https://github.com/niksnemc/packetauth" target="_blank">
-				<picture>
-					<source
-						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=packetauth&theme=dark&hide_border=true"
-						media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
-					/>
-					<source
-						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=packetauth&theme=light&hide_border=true"
-						media="(prefers-color-scheme: light)"
-					/>
-					<img alt="Packet Auth" src="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=packetauth&theme=dark&hide_border=true"/>
-				</picture>
-			</a>
-		</td>
-		<td>
-			<a href="https://github.com/NikSneMC/vanillarpc" target="_blank">
-				<picture>
-					<source
-						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=vanillarpc&theme=dark&hide_border=true"
-						media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
-					/>
-					<source
-						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=vanillarpc&theme=light&hide_border=true"
-						media="(prefers-color-scheme: light)"
-					/>
-					<img alt="Vanilla RPC" src="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=vanillarpc&theme=dark&hide_border=true"/>
-				</picture>
-			</a>
-		</td>
-	</tr>
-	<tr>
-        <!-- TODO: uncomment when arte moved to the ShardMC git and mirrored on GitHub -->
-		<!-- <td> -->
-		<!-- 	<a href="https://github.com/shardmc/arte" target="_blank"> -->
-		<!-- 		<picture> -->
-		<!-- 			<source -->
-		<!-- 				srcset="https://github-readme-stats.niksne.ru/api/pin/?username=shardmc&repo=arte&theme=dark&hide_border=true" -->
-		<!-- 				media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)" -->
-		<!-- 			/> -->
-		<!-- 			<source -->
-		<!-- 				srcset="https://github-readme-stats.niksne.ru/api/pin/?username=shardmc&repo=arte&theme=light&hide_border=true" -->
-		<!-- 				media="(prefers-color-scheme: light)" -->
-		<!-- 			/> -->
-		<!-- 			<img alt="Arte" src="https://github-readme-stats.niksne.ru/api/pin/?username=shardmc&repo=arte&theme=dark&hide_border=true"/> -->
-		<!-- 		</picture> -->
-		<!-- 	</a> -->
-		<!-- </td> -->
-  		<td>
-			<a href="https://github.com/niksnemc/prelogin-whitelist" target="_blank">
-				<picture>
-					<source
-						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=dark&hide_border=true"
-						media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
-					/>
-					<source
-						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=light&hide_border=true"
-						media="(prefers-color-scheme: light)"
-					/>
-					<img alt="Pre-Login Whitelist" src="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=prelogin-whitelist&theme=dark&hide_border=true"/>
-				</picture>
-			</a>
-		</td>
-    <!-- TODO: uncomment when arte moved to the ShardMC git and mirrored on GitHub -->
-	<!-- </tr> -->
-	<!-- <tr> -->
-		<td>
-			<a href="https://github.com/niksnemc/splashed" target="_blank">
-				<picture>
-					<source
-						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=splashed&theme=dark&hide_border=true"
-						media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
-					/>
-					<source
-						srcset="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=splashed&theme=light&hide_border=true"
-						media="(prefers-color-scheme: light)"
-					/>
-					<img alt="Pre-Login Whitelist" src="https://github-readme-stats.niksne.ru/api/pin/?username=niksnemc&repo=splashed&theme=dark&hide_border=true"/>
-				</picture>
-			</a>
-		</td>
-	</tr>
-</table>
