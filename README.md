@@ -53,9 +53,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11](https://github.com/NikSneMC/NikSOS/pull/11#issuecomment-3161661181) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-2. ❌ Closed PR [#11](https://github.com/NikSneMC/NikSOS/pull/11) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-   [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+1. 🗣 Commented on [#7](https://github.com/NikSneMC/PacketAuth/issues/7#issuecomment-3185345395) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
+2. 🗣 Commented on [#11](https://github.com/NikSneMC/NikSOS/pull/11#issuecomment-3161661181) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+3. ❌ Closed PR [#11](https://github.com/NikSneMC/NikSOS/pull/11) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
 2. ❌ Closed PR [#11](https://github.com/NikSneMC/NikSOS/pull/11) in
    [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
    [muety/wakapi](https://github.com/muety/wakapi)
