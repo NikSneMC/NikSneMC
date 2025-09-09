@@ -53,10 +53,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#6](https://github.com/NikSneMC/PacketAuth/issues/6#issuecomment-3185391060) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
-2. 🗣 Commented on [#7](https://github.com/NikSneMC/PacketAuth/issues/7#issuecomment-3185345395) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
-3. 💪 Opened PR [#10](undefined) in [NikSneMC/catppuccin-nix](https://github.com/NikSneMC/catppuccin-nix)
-4.  Labeled issue [#6](https://github.com/NikSneMC/PacketAuth/issues/6) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
+1. 🗣 Commented on [#1136](https://github.com/NotAShelf/nvf/pull/1136#issuecomment-3267068633) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
+2. 💪 Opened PR [#1136](https://github.com/NotAShelf/nvf/pull/1136) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
+3. 🗣 Commented on [#6](https://github.com/NikSneMC/PacketAuth/issues/6#issuecomment-3185391060) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
+4. 🗣 Commented on [#7](https://github.com/NikSneMC/PacketAuth/issues/7#issuecomment-3185345395) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
 5.  Assigned issue [#6](https://github.com/NikSneMC/PacketAuth/issues/6) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
 6. 🗣 Commented on [#6](https://github.com/NikSneMC/PacketAuth/issues/6#issuecomment-3185391060) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
 7.  Labeled issue [#7](https://github.com/NikSneMC/PacketAuth/issues/7) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
