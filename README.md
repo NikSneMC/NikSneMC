@@ -53,9 +53,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1136](https://github.com/NotAShelf/nvf/pull/1136#issuecomment-3267068633) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
-2. 💪 Opened PR [#1136](https://github.com/NotAShelf/nvf/pull/1136) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
-3. 🗣 Commented on [#6](https://github.com/NikSneMC/PacketAuth/issues/6#issuecomment-3185391060) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
+1. 🗣 Commented on [#12721](https://github.com/helix-editor/helix/issues/12721#issuecomment-3368929125) in [helix-editor/helix](https://github.com/helix-editor/helix)
+2. 🗣 Commented on [#1136](https://github.com/NotAShelf/nvf/pull/1136#issuecomment-3267068633) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
+3. 💪 Opened PR [#1136](https://github.com/NotAShelf/nvf/pull/1136) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
 4. 🗣 Commented on [#7](https://github.com/NikSneMC/PacketAuth/issues/7#issuecomment-3185345395) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
 5.  Assigned issue [#6](https://github.com/NikSneMC/PacketAuth/issues/6) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
 6. 🗣 Commented on [#6](https://github.com/NikSneMC/PacketAuth/issues/6#issuecomment-3185391060) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
