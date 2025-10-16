@@ -95,20 +95,7 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C718%20hrs%201%20min-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    17 hrs 6 mins       ███████████████░░░░░░░░░░   60.22 % 
-Nix                      7 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-Rust                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-TOML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-```
 
 
 <!--END_SECTION:wakatime-->
