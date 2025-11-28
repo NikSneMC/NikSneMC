@@ -53,8 +53,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#84](https://github.com/nwg-piotr/nwg-displays/issues/84#issuecomment-3450115806) in [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays)
-2. 🗣 Commented on [#84](https://github.com/nwg-piotr/nwg-displays/issues/84#issuecomment-3448936190) in [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays)
+1. 💪 Opened PR [#1](undefined) in [NikSneMC/mobc](https://github.com/NikSneMC/mobc)
+2. ❌ Assigned PR [#1](undefined) in [NikSneMC/mobc](https://github.com/NikSneMC/mobc)
 3. 🗣 Commented on [#12721](https://github.com/helix-editor/helix/issues/12721#issuecomment-3368929125) in [helix-editor/helix](https://github.com/helix-editor/helix)
 4. ❗ Opened issue [#443348](https://github.com/NixOS/nixpkgs/issues/443348) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 5.  Assigned issue [#6](https://github.com/NikSneMC/PacketAuth/issues/6) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
