@@ -53,9 +53,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](undefined) in [NikSneMC/mobc](https://github.com/NikSneMC/mobc)
-2. ❌ Assigned PR [#1](undefined) in [NikSneMC/mobc](https://github.com/NikSneMC/mobc)
-3. 🗣 Commented on [#12721](https://github.com/helix-editor/helix/issues/12721#issuecomment-3368929125) in [helix-editor/helix](https://github.com/helix-editor/helix)
+1. ❌ Merged PR [#1](undefined) in [NikSneMC/mobc](https://github.com/NikSneMC/mobc)
+2. 💪 Opened PR [#1](undefined) in [NikSneMC/mobc](https://github.com/NikSneMC/mobc)
+3. ❌ Assigned PR [#1](undefined) in [NikSneMC/mobc](https://github.com/NikSneMC/mobc)
 4. ❗ Opened issue [#443348](https://github.com/NixOS/nixpkgs/issues/443348) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 5.  Assigned issue [#6](https://github.com/NikSneMC/PacketAuth/issues/6) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
 6. 🗣 Commented on [#6](https://github.com/NikSneMC/PacketAuth/issues/6#issuecomment-3185391060) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
