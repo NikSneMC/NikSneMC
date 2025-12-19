@@ -53,12 +53,12 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#18](https://github.com/catppuccin/hyprlock/pull/18#issuecomment-3605034032) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-2. ❌ Merged PR [#1](undefined) in [NikSneMC/mobc](https://github.com/NikSneMC/mobc)
-3. 💪 Opened PR [#1](undefined) in [NikSneMC/mobc](https://github.com/NikSneMC/mobc)
-4. ❌ Assigned PR [#1](undefined) in [NikSneMC/mobc](https://github.com/NikSneMC/mobc)
-5.  Assigned issue [#6](https://github.com/NikSneMC/PacketAuth/issues/6) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
-6. 🗣 Commented on [#6](https://github.com/NikSneMC/PacketAuth/issues/6#issuecomment-3185391060) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
+1. 💪 Opened PR [#13](undefined) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+2. ❌ Assigned PR [#13](undefined) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+3. 🗣 Commented on [#18](https://github.com/catppuccin/hyprlock/pull/18#issuecomment-3605034032) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+4. ❌ Merged PR [#1](undefined) in [NikSneMC/mobc](https://github.com/NikSneMC/mobc)
+5. 💪 Opened PR [#1](undefined) in [NikSneMC/mobc](https://github.com/NikSneMC/mobc)
+6. ❌ Assigned PR [#1](undefined) in [NikSneMC/mobc](https://github.com/NikSneMC/mobc)
 7.  Labeled issue [#7](https://github.com/NikSneMC/PacketAuth/issues/7) in [NikSneMC/PacketAuth](https://github.com/NikSneMC/PacketAuth)
    [scalar/scalar](https://github.com/scalar/scalar)
 4. 🗣 Commented on
