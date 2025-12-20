@@ -95,9 +95,20 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C032%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C034%20hrs%2029%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    24 hrs 24 mins      ████████████████████░░░░░   81.54 % 
+Terraform                1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Nix                      1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Python                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Clojure                  27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+```
 
 
 <!--END_SECTION:wakatime-->
