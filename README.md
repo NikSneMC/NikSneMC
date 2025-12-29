@@ -53,9 +53,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#13](undefined) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-2. ❌ Assigned PR [#13](undefined) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-3. 🗣 Commented on [#18](https://github.com/catppuccin/hyprlock/pull/18#issuecomment-3605034032) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+1. 💪 Opened PR [#4](undefined) in [ollyswanson/fromenv](https://github.com/ollyswanson/fromenv)
+2. 💪 Opened PR [#13](undefined) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+3. ❌ Assigned PR [#13](undefined) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
 4. ❌ Merged PR [#1](undefined) in [NikSneMC/mobc](https://github.com/NikSneMC/mobc)
 5. 💪 Opened PR [#1](undefined) in [NikSneMC/mobc](https://github.com/NikSneMC/mobc)
 6. ❌ Assigned PR [#1](undefined) in [NikSneMC/mobc](https://github.com/NikSneMC/mobc)
