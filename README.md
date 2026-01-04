@@ -53,13 +53,13 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#35](https://github.com/AvengeMedia/DankLinux-Docs/pull/35) in [AvengeMedia/DankLinux-Docs](https://github.com/AvengeMedia/DankLinux-Docs)
-2. 💪 Opened PR [#35](https://github.com/AvengeMedia/DankLinux-Docs/pull/35) in [AvengeMedia/DankLinux-Docs](https://github.com/AvengeMedia/DankLinux-Docs)
-3. 🎉 Merged PR [#1239](https://github.com/AvengeMedia/DankMaterialShell/pull/1239) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-4. 🗣 Commented on [#1239](https://github.com/AvengeMedia/DankMaterialShell/pull/1239#issuecomment-3706335837) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-5. 🗣 Commented on [#1239](https://github.com/AvengeMedia/DankMaterialShell/pull/1239#issuecomment-3706299728) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-6. 🗣 Commented on [#1239](https://github.com/AvengeMedia/DankMaterialShell/pull/1239#issuecomment-3706114712) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-7. 🗣 Commented on [#1239](https://github.com/AvengeMedia/DankMaterialShell/pull/1239#issuecomment-3706048549) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+1. ❌ Closed PR [#1](https://github.com/NikSneMC/git-helper/pull/1) in [NikSneMC/git-helper](https://github.com/NikSneMC/git-helper)
+2. 💪 Opened PR [#1](https://github.com/NikSneMC/git-helper/pull/1) in [NikSneMC/git-helper](https://github.com/NikSneMC/git-helper)
+3. 🎉 Merged PR [#35](https://github.com/AvengeMedia/DankLinux-Docs/pull/35) in [AvengeMedia/DankLinux-Docs](https://github.com/AvengeMedia/DankLinux-Docs)
+4. 💪 Opened PR [#35](https://github.com/AvengeMedia/DankLinux-Docs/pull/35) in [AvengeMedia/DankLinux-Docs](https://github.com/AvengeMedia/DankLinux-Docs)
+5. 🎉 Merged PR [#1239](https://github.com/AvengeMedia/DankMaterialShell/pull/1239) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+6. 🗣 Commented on [#1239](https://github.com/AvengeMedia/DankMaterialShell/pull/1239#issuecomment-3706335837) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+7. 🗣 Commented on [#1239](https://github.com/AvengeMedia/DankMaterialShell/pull/1239#issuecomment-3706299728) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
    [scalar/scalar](https://github.com/scalar/scalar)
 4. 🗣 Commented on
    [#142](https://github.com/spring-rs/spring-rs/issues/142#issuecomment-2970275532)
