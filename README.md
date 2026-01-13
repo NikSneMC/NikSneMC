@@ -95,19 +95,19 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C151%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C153%20hrs%2029%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.01%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Rust                     19 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   41.28 % 
-Other                    13 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-Typst                    8 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-TOML                     3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-WebAssembly Interface Typ50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Rust                     21 hrs 40 mins      ████████████░░░░░░░░░░░░░   46.21 % 
+Other                    13 hrs 5 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Typst                    6 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+TOML                     3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+WebAssembly Interface Typ59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
 
 
