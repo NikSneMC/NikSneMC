@@ -53,10 +53,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/NikSneMC/NikSOS/pull/14) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-2. 💪 Opened PR [#14](https://github.com/NikSneMC/NikSOS/pull/14) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-3. ℹ️ Assigned PR [#14](https://github.com/NikSneMC/NikSOS/pull/14) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-4. 💪 Opened PR [#35](https://github.com/AvengeMedia/DankLinux-Docs/pull/35) in [AvengeMedia/DankLinux-Docs](https://github.com/AvengeMedia/DankLinux-Docs)
+1. 🎉 Merged PR [#7](https://github.com/AvengeMedia/danksearch/pull/7) in [AvengeMedia/danksearch](https://github.com/AvengeMedia/danksearch)
+2. 🎉 Merged PR [#14](https://github.com/NikSneMC/NikSOS/pull/14) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+3. 💪 Opened PR [#14](https://github.com/NikSneMC/NikSOS/pull/14) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+4. ℹ️ Assigned PR [#14](https://github.com/NikSneMC/NikSOS/pull/14) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
 5. 🎉 Merged PR [#1239](https://github.com/AvengeMedia/DankMaterialShell/pull/1239) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 6. 🗣 Commented on [#1239](https://github.com/AvengeMedia/DankMaterialShell/pull/1239#issuecomment-3706335837) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 7. 🗣 Commented on [#1239](https://github.com/AvengeMedia/DankMaterialShell/pull/1239#issuecomment-3706299728) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
