@@ -53,12 +53,12 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/AvengeMedia/danksearch/pull/7) in [AvengeMedia/danksearch](https://github.com/AvengeMedia/danksearch)
-2. 🎉 Merged PR [#14](https://github.com/NikSneMC/NikSOS/pull/14) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-3. 💪 Opened PR [#14](https://github.com/NikSneMC/NikSOS/pull/14) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-4. ℹ️ Assigned PR [#14](https://github.com/NikSneMC/NikSOS/pull/14) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
-5. 🎉 Merged PR [#1239](https://github.com/AvengeMedia/DankMaterialShell/pull/1239) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-6. 🗣 Commented on [#1239](https://github.com/AvengeMedia/DankMaterialShell/pull/1239#issuecomment-3706335837) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+1. ❌ Closed PR [#8](https://github.com/NikSneMC/catppuccin-nix/pull/8) in [NikSneMC/catppuccin-nix](https://github.com/NikSneMC/catppuccin-nix)
+2. ❌ Closed PR [#9](https://github.com/NikSneMC/catppuccin-nix/pull/9) in [NikSneMC/catppuccin-nix](https://github.com/NikSneMC/catppuccin-nix)
+3. 🎉 Merged PR [#7](https://github.com/AvengeMedia/danksearch/pull/7) in [AvengeMedia/danksearch](https://github.com/AvengeMedia/danksearch)
+4. 🎉 Merged PR [#14](https://github.com/NikSneMC/NikSOS/pull/14) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+5. 💪 Opened PR [#14](https://github.com/NikSneMC/NikSOS/pull/14) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
+6. ℹ️ Assigned PR [#14](https://github.com/NikSneMC/NikSOS/pull/14) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
 7. 🗣 Commented on [#1239](https://github.com/AvengeMedia/DankMaterialShell/pull/1239#issuecomment-3706299728) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 8. 🗣 Commented on
    [#142](https://github.com/spring-rs/spring-rs/issues/142#issuecomment-2970275532)
