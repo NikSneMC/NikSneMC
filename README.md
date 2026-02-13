@@ -60,23 +60,22 @@
 5. 🎉 Merged PR [#1239](https://github.com/AvengeMedia/DankMaterialShell/pull/1239) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 6. 🗣 Commented on [#1239](https://github.com/AvengeMedia/DankMaterialShell/pull/1239#issuecomment-3706335837) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 7. 🗣 Commented on [#1239](https://github.com/AvengeMedia/DankMaterialShell/pull/1239#issuecomment-3706299728) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-   [scalar/scalar](https://github.com/scalar/scalar)
-4. 🗣 Commented on
+8. 🗣 Commented on
    [#142](https://github.com/spring-rs/spring-rs/issues/142#issuecomment-2970275532)
    in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
-5. ❗ Opened issue [#6049](https://github.com/scalar/scalar/issues/6049) in
+9. ❗ Opened issue [#6049](https://github.com/scalar/scalar/issues/6049) in
    [scalar/scalar](https://github.com/scalar/scalar)
-6. 🗣 Commented on
+10. 🗣 Commented on
    [#142](https://github.com/spring-rs/spring-rs/issues/142#issuecomment-2970275532)
    in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
-7. 💪 Opened PR [#4](https://github.com/spring-rs/contrib-plugins/pull/4) in
+11. 💪 Opened PR [#4](https://github.com/spring-rs/contrib-plugins/pull/4) in
    [spring-rs/contrib-plugins](https://github.com/spring-rs/contrib-plugins)
-8. ❗ Opened issue [#142](https://github.com/spring-rs/spring-rs/issues/142) in
+12. ❗ Opened issue [#142](https://github.com/spring-rs/spring-rs/issues/142) in
    [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
-9. 🗣 Commented on
+13. 🗣 Commented on
    [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953313501)
    in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
-10. 🗣 Commented on
+14. 🗣 Commented on
     [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953311906)
     in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
 
@@ -99,15 +98,15 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.02%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Rust                     11 hrs 23 mins      ████████████░░░░░░░░░░░░░   46.78 % 
-Other                    8 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.26 % 
-Nix                      3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-SQL                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-TOML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+💬 Programming Languages:
+Rust                     11 hrs 23 mins      ████████████░░░░░░░░░░░░░   46.78 %
+Other                    8 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.26 %
+Nix                      3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.11 %
+SQL                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+TOML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 
