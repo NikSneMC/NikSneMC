@@ -55,8 +55,8 @@
 
 1. ❌ Closed PR [#13](https://github.com/NikSneMC/NikSOS/pull/13) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
 2. 🗣 Commented on [#20](https://github.com/catppuccin/hyprlock/issues/20#issuecomment-4019779768) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-3. 💪 Opened PR [#22](https://github.com/catppuccin/hyprlock/pull/22) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-4. ℹ️ Assigned PR [#22](https://github.com/catppuccin/hyprlock/pull/22) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+3. ℹ️ Assigned PR [#22](https://github.com/catppuccin/hyprlock/pull/22) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+4. 💪 Opened PR [#22](https://github.com/catppuccin/hyprlock/pull/22) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
 5. 🔒 Closed issue [#21](https://github.com/catppuccin/hyprlock/issues/21) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
 6. 🗣 Commented on [#21](https://github.com/catppuccin/hyprlock/issues/21#issuecomment-4019750015) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
 7. ❌ Closed PR [#8](https://github.com/NikSneMC/catppuccin-nix/pull/8) in [NikSneMC/catppuccin-nix](https://github.com/NikSneMC/catppuccin-nix)
