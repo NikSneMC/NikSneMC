@@ -59,7 +59,7 @@
 4. 🗣 Commented on [#1534](https://github.com/AvengeMedia/DankMaterialShell/issues/1534#issuecomment-4060331771) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 5. ❌ Closed PR [#13](https://github.com/NikSneMC/NikSOS/pull/13) in [NikSneMC/NikSOS](https://github.com/NikSneMC/NikSOS)
 6. 🗣 Commented on [#20](https://github.com/catppuccin/hyprlock/issues/20#issuecomment-4019779768) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-7. 💪 Opened PR [#22](https://github.com/catppuccin/hyprlock/pull/22) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+7. ℹ️ Assigned PR [#22](https://github.com/catppuccin/hyprlock/pull/22) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
 8. 🗣 Commented on
    [#142](https://github.com/spring-rs/spring-rs/issues/142#issuecomment-2970275532)
    in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
