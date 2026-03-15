@@ -94,7 +94,7 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C393%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C394%20hrs-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.02%20million%20lines%20of%20code-blue?style=flat)
 
@@ -102,7 +102,9 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    52 mins             ████████████████████████░   96.91 % 
+Nix                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 
