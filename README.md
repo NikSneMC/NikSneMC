@@ -60,24 +60,6 @@
 5. 💪 Opened PR [#64](https://github.com/AvengeMedia/DankLinux-Docs/pull/64) in [AvengeMedia/DankLinux-Docs](https://github.com/AvengeMedia/DankLinux-Docs)
 6. 🗣 Commented on [#1534](https://github.com/AvengeMedia/DankMaterialShell/issues/1534#issuecomment-4060358429) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 7. 🗣 Commented on [#1534](https://github.com/AvengeMedia/DankMaterialShell/issues/1534#issuecomment-4060331771) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-8. 🗣 Commented on
-   [#142](https://github.com/spring-rs/spring-rs/issues/142#issuecomment-2970275532)
-   in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
-9. ❗ Opened issue [#6049](https://github.com/scalar/scalar/issues/6049) in
-   [scalar/scalar](https://github.com/scalar/scalar)
-10. 🗣 Commented on
-   [#142](https://github.com/spring-rs/spring-rs/issues/142#issuecomment-2970275532)
-   in [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
-11. 💪 Opened PR [#4](https://github.com/spring-rs/contrib-plugins/pull/4) in
-   [spring-rs/contrib-plugins](https://github.com/spring-rs/contrib-plugins)
-12. ❗ Opened issue [#142](https://github.com/spring-rs/spring-rs/issues/142) in
-   [spring-rs/spring-rs](https://github.com/spring-rs/spring-rs)
-13. 🗣 Commented on
-   [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953313501)
-   in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
-14. 🗣 Commented on
-    [#9](https://github.com/snugnug/sherpa-content/pull/9#issuecomment-2953311906)
-    in [snugnug/sherpa-content](https://github.com/snugnug/sherpa-content)
 
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
@@ -98,15 +80,15 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.02%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Other                    10 hrs 26 mins      ███████████████░░░░░░░░░░   58.78 % 
-Typst                    2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Rust                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-QML                      1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Nix                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+💬 Programming Languages:
+Other                    10 hrs 26 mins      ███████████████░░░░░░░░░░   58.78 %
+Typst                    2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 %
+Rust                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+QML                      1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+Nix                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
 ```
 
 
