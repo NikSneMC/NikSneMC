@@ -76,7 +76,7 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C454%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C461%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.98%20million%20lines%20of%20code-blue?style=flat)
 
@@ -84,11 +84,11 @@
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 29 mins       █████████████░░░░░░░░░░░░   51.14 % 
-Rust                     5 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.13 % 
-TOML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Nix                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Rust                     8 hrs 2 mins        ███████████░░░░░░░░░░░░░░   45.19 % 
+Other                    7 hrs 31 mins       ███████████░░░░░░░░░░░░░░   42.28 % 
+TOML                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Nix                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 
 
