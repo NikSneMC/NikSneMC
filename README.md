@@ -53,13 +53,13 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#21](https://github.com/ivov/lisette/pull/21) in [ivov/lisette](https://github.com/ivov/lisette)
-2. 🔒 Closed issue [#13](https://github.com/ivov/lisette/issues/13) in [ivov/lisette](https://github.com/ivov/lisette)
-3. 🗣 Commented on [#13](https://github.com/ivov/lisette/issues/13#issuecomment-4193029750) in [ivov/lisette](https://github.com/ivov/lisette)
-4. ❗ Opened issue [#13](https://github.com/ivov/lisette/issues/13) in [ivov/lisette](https://github.com/ivov/lisette)
-5. 💪 Opened PR [#39](https://github.com/audunhalland/entrait/pull/39) in [audunhalland/entrait](https://github.com/audunhalland/entrait)
-6. 🎉 Merged PR [#64](https://github.com/AvengeMedia/DankLinux-Docs/pull/64) in [AvengeMedia/DankLinux-Docs](https://github.com/AvengeMedia/DankLinux-Docs)
-7. 🎉 Merged PR [#1998](https://github.com/AvengeMedia/DankMaterialShell/pull/1998) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+1. 🎉 Merged PR [#21](https://github.com/ivov/lisette/pull/21) in [ivov/lisette](https://github.com/ivov/lisette)
+2. 💪 Opened PR [#21](https://github.com/ivov/lisette/pull/21) in [ivov/lisette](https://github.com/ivov/lisette)
+3. 🔒 Closed issue [#13](https://github.com/ivov/lisette/issues/13) in [ivov/lisette](https://github.com/ivov/lisette)
+4. 🗣 Commented on [#13](https://github.com/ivov/lisette/issues/13#issuecomment-4193029750) in [ivov/lisette](https://github.com/ivov/lisette)
+5. ❗ Opened issue [#13](https://github.com/ivov/lisette/issues/13) in [ivov/lisette](https://github.com/ivov/lisette)
+6. 💪 Opened PR [#39](https://github.com/audunhalland/entrait/pull/39) in [audunhalland/entrait](https://github.com/audunhalland/entrait)
+7. 🎉 Merged PR [#64](https://github.com/AvengeMedia/DankLinux-Docs/pull/64) in [AvengeMedia/DankLinux-Docs](https://github.com/AvengeMedia/DankLinux-Docs)
 
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
