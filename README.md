@@ -53,7 +53,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#21](https://github.com/ivov/lisette/pull/21) in [ivov/lisette](https://github.com/ivov/lisette)
+1. 🗣 Commented on [#514623](https://github.com/NixOS/nixpkgs/pull/514623#issuecomment-4486192872) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 2. 💪 Opened PR [#21](https://github.com/ivov/lisette/pull/21) in [ivov/lisette](https://github.com/ivov/lisette)
 3. 🔒 Closed issue [#13](https://github.com/ivov/lisette/issues/13) in [ivov/lisette](https://github.com/ivov/lisette)
 4. 🗣 Commented on [#13](https://github.com/ivov/lisette/issues/13#issuecomment-4193029750) in [ivov/lisette](https://github.com/ivov/lisette)
