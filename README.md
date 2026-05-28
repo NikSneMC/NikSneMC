@@ -76,7 +76,7 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C727%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C728%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.01%20million%20lines%20of%20code-blue?style=flat)
 
@@ -84,11 +84,11 @@
 
 ```text
 💬 Programming Languages: 
-Other                    13 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   39.65 % 
-TypeScript               12 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   37.31 % 
-JSON                     3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Nix                      2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Docker                   40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+TypeScript               12 hrs 35 mins      ███████████░░░░░░░░░░░░░░   43.67 % 
+Other                    8 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   31.18 % 
+JSON                     2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Nix                      1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Docker                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
 
 
