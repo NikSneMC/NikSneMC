@@ -53,10 +53,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Assigned issue [#1](https://github.com/NikSneMC/VanillaRPC/issues/1) in [NikSneMC/VanillaRPC](https://github.com/NikSneMC/VanillaRPC)
-2. 🗣 Commented on [#1](https://github.com/NikSneMC/VanillaRPC/issues/1#issuecomment-4593560387) in [NikSneMC/VanillaRPC](https://github.com/NikSneMC/VanillaRPC)
-3. 🗣 Commented on [#514623](https://github.com/NixOS/nixpkgs/pull/514623#issuecomment-4486192872) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#13](https://github.com/ivov/lisette/issues/13#issuecomment-4193029750) in [ivov/lisette](https://github.com/ivov/lisette)
+1. 💪 Opened PR [#3](https://github.com/cjavad/nixpille-helium/pull/3) in [cjavad/nixpille-helium](https://github.com/cjavad/nixpille-helium)
+2. ℹ️ Assigned issue [#1](https://github.com/NikSneMC/VanillaRPC/issues/1) in [NikSneMC/VanillaRPC](https://github.com/NikSneMC/VanillaRPC)
+3. 🗣 Commented on [#1](https://github.com/NikSneMC/VanillaRPC/issues/1#issuecomment-4593560387) in [NikSneMC/VanillaRPC](https://github.com/NikSneMC/VanillaRPC)
+4. 🗣 Commented on [#514623](https://github.com/NixOS/nixpkgs/pull/514623#issuecomment-4486192872) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 5. ❗ Opened issue [#13](https://github.com/ivov/lisette/issues/13) in [ivov/lisette](https://github.com/ivov/lisette)
 6. 💪 Opened PR [#39](https://github.com/audunhalland/entrait/pull/39) in [audunhalland/entrait](https://github.com/audunhalland/entrait)
 7. 🎉 Merged PR [#64](https://github.com/AvengeMedia/DankLinux-Docs/pull/64) in [AvengeMedia/DankLinux-Docs](https://github.com/AvengeMedia/DankLinux-Docs)
