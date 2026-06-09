@@ -76,17 +76,19 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.02%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C745%20hrs%2054%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.09%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 55 mins       ██████████████████░░░░░░░   70.21 % 
-Nix                      2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.81 % 
-Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Terraform                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other                    7 hrs 29 mins       ██████████████████░░░░░░░   71.71 % 
+Nix                      2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Typst                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 
