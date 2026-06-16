@@ -53,13 +53,13 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#156](https://github.com/noctalia-dev/noctalia-docs/pull/156) in [noctalia-dev/noctalia-docs](https://github.com/noctalia-dev/noctalia-docs)
-2. 🎉 Merged PR [#3](https://github.com/cjavad/nixpille-helium/pull/3) in [cjavad/nixpille-helium](https://github.com/cjavad/nixpille-helium)
-3. 💪 Opened PR [#3](https://github.com/cjavad/nixpille-helium/pull/3) in [cjavad/nixpille-helium](https://github.com/cjavad/nixpille-helium)
-4. ℹ️ Assigned issue [#1](https://github.com/NikSneMC/VanillaRPC/issues/1) in [NikSneMC/VanillaRPC](https://github.com/NikSneMC/VanillaRPC)
-5. 🗣 Commented on [#1](https://github.com/NikSneMC/VanillaRPC/issues/1#issuecomment-4593560387) in [NikSneMC/VanillaRPC](https://github.com/NikSneMC/VanillaRPC)
-6. 🗣 Commented on [#514623](https://github.com/NixOS/nixpkgs/pull/514623#issuecomment-4486192872) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-7. 🎉 Merged PR [#64](https://github.com/AvengeMedia/DankLinux-Docs/pull/64) in [AvengeMedia/DankLinux-Docs](https://github.com/AvengeMedia/DankLinux-Docs)
+1. 🎉 Merged PR [#156](https://github.com/noctalia-dev/noctalia-docs/pull/156) in [noctalia-dev/noctalia-docs](https://github.com/noctalia-dev/noctalia-docs)
+2. 💪 Opened PR [#156](https://github.com/noctalia-dev/noctalia-docs/pull/156) in [noctalia-dev/noctalia-docs](https://github.com/noctalia-dev/noctalia-docs)
+3. 🎉 Merged PR [#3](https://github.com/cjavad/nixpille-helium/pull/3) in [cjavad/nixpille-helium](https://github.com/cjavad/nixpille-helium)
+4. 💪 Opened PR [#3](https://github.com/cjavad/nixpille-helium/pull/3) in [cjavad/nixpille-helium](https://github.com/cjavad/nixpille-helium)
+5. ℹ️ Assigned issue [#1](https://github.com/NikSneMC/VanillaRPC/issues/1) in [NikSneMC/VanillaRPC](https://github.com/NikSneMC/VanillaRPC)
+6. 🗣 Commented on [#1](https://github.com/NikSneMC/VanillaRPC/issues/1#issuecomment-4593560387) in [NikSneMC/VanillaRPC](https://github.com/NikSneMC/VanillaRPC)
+7. 🗣 Commented on [#514623](https://github.com/NixOS/nixpkgs/pull/514623#issuecomment-4486192872) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
