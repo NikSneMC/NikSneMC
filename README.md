@@ -53,13 +53,13 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#156](https://github.com/noctalia-dev/noctalia-docs/pull/156) in [noctalia-dev/noctalia-docs](https://github.com/noctalia-dev/noctalia-docs)
-2. 💪 Opened PR [#156](https://github.com/noctalia-dev/noctalia-docs/pull/156) in [noctalia-dev/noctalia-docs](https://github.com/noctalia-dev/noctalia-docs)
-3. 🎉 Merged PR [#3](https://github.com/cjavad/nixpille-helium/pull/3) in [cjavad/nixpille-helium](https://github.com/cjavad/nixpille-helium)
-4. 💪 Opened PR [#3](https://github.com/cjavad/nixpille-helium/pull/3) in [cjavad/nixpille-helium](https://github.com/cjavad/nixpille-helium)
-5. ℹ️ Assigned issue [#1](https://github.com/NikSneMC/VanillaRPC/issues/1) in [NikSneMC/VanillaRPC](https://github.com/NikSneMC/VanillaRPC)
-6. 🗣 Commented on [#1](https://github.com/NikSneMC/VanillaRPC/issues/1#issuecomment-4593560387) in [NikSneMC/VanillaRPC](https://github.com/NikSneMC/VanillaRPC)
-7. 🗣 Commented on [#514623](https://github.com/NixOS/nixpkgs/pull/514623#issuecomment-4486192872) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 💪 Opened PR [#20](https://github.com/the-nnn-stack/the-nnn-stack.github.io/pull/20) in [the-nnn-stack/the-nnn-stack.github.io](https://github.com/the-nnn-stack/the-nnn-stack.github.io)
+2. 🎉 Merged PR [#156](https://github.com/noctalia-dev/noctalia-docs/pull/156) in [noctalia-dev/noctalia-docs](https://github.com/noctalia-dev/noctalia-docs)
+3. 💪 Opened PR [#156](https://github.com/noctalia-dev/noctalia-docs/pull/156) in [noctalia-dev/noctalia-docs](https://github.com/noctalia-dev/noctalia-docs)
+4. 🎉 Merged PR [#3](https://github.com/cjavad/nixpille-helium/pull/3) in [cjavad/nixpille-helium](https://github.com/cjavad/nixpille-helium)
+5. 💪 Opened PR [#3](https://github.com/cjavad/nixpille-helium/pull/3) in [cjavad/nixpille-helium](https://github.com/cjavad/nixpille-helium)
+6. ℹ️ Assigned issue [#1](https://github.com/NikSneMC/VanillaRPC/issues/1) in [NikSneMC/VanillaRPC](https://github.com/NikSneMC/VanillaRPC)
+7. 🗣 Commented on [#1](https://github.com/NikSneMC/VanillaRPC/issues/1#issuecomment-4593560387) in [NikSneMC/VanillaRPC](https://github.com/NikSneMC/VanillaRPC)
 
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
