@@ -53,13 +53,13 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Assigned issue [#23](https://github.com/catppuccin/hyprlock/issues/23) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-2. 💪 Opened PR [#20](https://github.com/the-nnn-stack/the-nnn-stack.github.io/pull/20) in [the-nnn-stack/the-nnn-stack.github.io](https://github.com/the-nnn-stack/the-nnn-stack.github.io)
-3. 🎉 Merged PR [#156](https://github.com/noctalia-dev/noctalia-docs/pull/156) in [noctalia-dev/noctalia-docs](https://github.com/noctalia-dev/noctalia-docs)
-4. 💪 Opened PR [#156](https://github.com/noctalia-dev/noctalia-docs/pull/156) in [noctalia-dev/noctalia-docs](https://github.com/noctalia-dev/noctalia-docs)
-5. 🎉 Merged PR [#3](https://github.com/cjavad/nixpille-helium/pull/3) in [cjavad/nixpille-helium](https://github.com/cjavad/nixpille-helium)
-6. 💪 Opened PR [#3](https://github.com/cjavad/nixpille-helium/pull/3) in [cjavad/nixpille-helium](https://github.com/cjavad/nixpille-helium)
-7. ℹ️ Assigned issue [#1](https://github.com/NikSneMC/VanillaRPC/issues/1) in [NikSneMC/VanillaRPC](https://github.com/NikSneMC/VanillaRPC)
+1. 🎉 Merged PR [#24](https://github.com/catppuccin/hyprlock/pull/24) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+2. 🔒 Closed issue [#23](https://github.com/catppuccin/hyprlock/issues/23) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+3. 🔓 Reopened issue [#20](https://github.com/catppuccin/hyprlock/issues/20) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+4. 🔒 Closed issue [#20](https://github.com/catppuccin/hyprlock/issues/20) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+5. 🎉 Merged PR [#22](https://github.com/catppuccin/hyprlock/pull/22) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+6. ℹ️ Labeled PR [#24](https://github.com/catppuccin/hyprlock/pull/24) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+7. ℹ️ Assigned PR [#24](https://github.com/catppuccin/hyprlock/pull/24) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
 
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
