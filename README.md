@@ -53,13 +53,13 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#24](https://github.com/catppuccin/hyprlock/pull/24) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-2. 🔒 Closed issue [#23](https://github.com/catppuccin/hyprlock/issues/23) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-3. 🔓 Reopened issue [#20](https://github.com/catppuccin/hyprlock/issues/20) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-4. 🔒 Closed issue [#20](https://github.com/catppuccin/hyprlock/issues/20) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-5. 🎉 Merged PR [#22](https://github.com/catppuccin/hyprlock/pull/22) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-6. ℹ️ Labeled PR [#24](https://github.com/catppuccin/hyprlock/pull/24) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-7. ℹ️ Assigned PR [#24](https://github.com/catppuccin/hyprlock/pull/24) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+1. 💪 Opened PR [#26](https://github.com/the-nnn-stack/the-nnn-stack.github.io/pull/26) in [the-nnn-stack/the-nnn-stack.github.io](https://github.com/the-nnn-stack/the-nnn-stack.github.io)
+2. 🎉 Merged PR [#24](https://github.com/catppuccin/hyprlock/pull/24) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+3. 🔒 Closed issue [#23](https://github.com/catppuccin/hyprlock/issues/23) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+4. 🔓 Reopened issue [#20](https://github.com/catppuccin/hyprlock/issues/20) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+5. 🔒 Closed issue [#20](https://github.com/catppuccin/hyprlock/issues/20) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+6. 🎉 Merged PR [#22](https://github.com/catppuccin/hyprlock/pull/22) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+7. ℹ️ Labeled PR [#24](https://github.com/catppuccin/hyprlock/pull/24) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
 
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
