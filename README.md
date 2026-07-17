@@ -76,19 +76,19 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C822%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C822%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.79%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.80%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-YAML                     3 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   33.28 % 
-JavaScript               2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-Nix                      2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-TOML                     2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+YAML                     3 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.83 % 
+JavaScript               2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Nix                      2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+TOML                     2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 ```
 
 
