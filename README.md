@@ -76,7 +76,7 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C826%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C829%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.80%20million%20lines%20of%20code-blue?style=flat)
 
@@ -84,11 +84,11 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-Java                     3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-JavaScript               2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Nix                      2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-TOML                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+YAML                     4 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Java                     3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+JavaScript               2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Nix                      2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TOML                     2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
 ```
 
 
