@@ -76,9 +76,20 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C833%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C833%20hrs%2046%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.81%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+JavaScript               2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+YAML                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Nix                      1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+```
 
 
 <!--END_SECTION:wakatime-->
