@@ -76,7 +76,7 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C845%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C848%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.80%20million%20lines%20of%20code-blue?style=flat)
 
@@ -84,11 +84,11 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-Python                   3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-Nix                      3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-Bash                     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Markdown                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Nix                      5 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.96 % 
+YAML                     3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Python                   2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Bash                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Makefile                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 ```
 
 
