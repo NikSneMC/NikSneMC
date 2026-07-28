@@ -76,7 +76,9 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C848%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C171%20hrs%2030%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.80%20million%20lines%20of%20code-blue?style=flat)
 
@@ -84,11 +86,17 @@
 
 ```text
 💬 Programming Languages: 
-Nix                      5 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.96 % 
-YAML                     3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-Python                   2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Bash                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Makefile                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Nix                      4 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   34.28 % 
+YAML                     3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+Python                   2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Bash                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Makefile                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
