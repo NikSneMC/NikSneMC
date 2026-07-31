@@ -76,7 +76,7 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C175%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C176%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2013%20mins-blue?style=flat)
 
@@ -86,11 +86,11 @@
 
 ```text
 💬 Programming Languages: 
-Nix                      6 hrs 58 mins       ██████████████░░░░░░░░░░░   54.93 % 
-Python                   2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-YAML                     1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Nix                      7 hrs 35 mins       ██████████████░░░░░░░░░░░   56.24 % 
+Python                   2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+YAML                     1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+TOML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 
 🤖 **AI Coding This Week** 
