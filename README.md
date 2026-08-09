@@ -76,11 +76,28 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C185%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C187%20hrs%2033%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.81%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Nix                      7 hrs 52 mins       ██████████████████░░░░░░░   70.34 % 
+YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Lua                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+C                        36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 
 <!--END_SECTION:wakatime-->
