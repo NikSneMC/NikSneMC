@@ -80,17 +80,17 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2013%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.81%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.88%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Nix                      5 hrs 8 mins        ████████████████░░░░░░░░░   62.44 % 
-YAML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Lua                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-C                        36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Nix                      2 hrs 1 min         █████████████░░░░░░░░░░░░   53.25 % 
+YAML                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+JSON                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 
 🤖 **AI Coding This Week** 
