@@ -53,13 +53,13 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#206](https://github.com/noctalia-dev/community-plugins/issues/206#issuecomment-5154481590) in [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
-2. 🗣 Commented on [#206](https://github.com/noctalia-dev/community-plugins/issues/206#issuecomment-5154123991) in [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
-3. 🗣 Commented on [#206](https://github.com/noctalia-dev/community-plugins/issues/206#issuecomment-5154095040) in [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
-4. 🗣 Commented on [#206](https://github.com/noctalia-dev/community-plugins/issues/206#issuecomment-5154050002) in [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
-5. 💪 Opened PR [#26](https://github.com/the-nnn-stack/the-nnn-stack.github.io/pull/26) in [the-nnn-stack/the-nnn-stack.github.io](https://github.com/the-nnn-stack/the-nnn-stack.github.io)
-6. 🎉 Merged PR [#22](https://github.com/catppuccin/hyprlock/pull/22) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
-7. ℹ️ Labeled PR [#24](https://github.com/catppuccin/hyprlock/pull/24) in [catppuccin/hyprlock](https://github.com/catppuccin/hyprlock)
+1. ❌ Closed PR [#4](https://github.com/NikSneMC/mobc-sqlx/pull/4) in [NikSneMC/mobc-sqlx](https://github.com/NikSneMC/mobc-sqlx)
+2. ❌ Closed PR [#3](https://github.com/NikSneMC/mobc-sqlx/pull/3) in [NikSneMC/mobc-sqlx](https://github.com/NikSneMC/mobc-sqlx)
+3. ❌ Closed PR [#2](https://github.com/NikSneMC/mobc-sqlx/pull/2) in [NikSneMC/mobc-sqlx](https://github.com/NikSneMC/mobc-sqlx)
+4. ❌ Closed PR [#1](https://github.com/NikSneMC/mobc-sqlx/pull/1) in [NikSneMC/mobc-sqlx](https://github.com/NikSneMC/mobc-sqlx)
+5. 🗣 Commented on [#206](https://github.com/noctalia-dev/community-plugins/issues/206#issuecomment-5154481590) in [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
+6. 🗣 Commented on [#206](https://github.com/noctalia-dev/community-plugins/issues/206#issuecomment-5154123991) in [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
+7. 🗣 Commented on [#206](https://github.com/noctalia-dev/community-plugins/issues/206#issuecomment-5154095040) in [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
 
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
