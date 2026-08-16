@@ -80,24 +80,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20hrs%2013%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.91%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Nix                      2 hrs 50 mins       ███████████████████░░░░░░   75.45 % 
-YAML                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
 
 
 <!--END_SECTION:wakatime-->
