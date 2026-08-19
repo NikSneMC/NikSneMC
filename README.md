@@ -76,44 +76,11 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C199%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C203%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.02%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Rust                     5 hrs 27 mins       ███████████░░░░░░░░░░░░░░   43.43 % 
-Nix                      2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-TOML                     2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-YAML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 18 mins (26.29%)
-
-✍️ 1,037 lines written by AI, 709 lines written by hand (59.39% AI-written)
-
-🔤 1,233,623 Input Tokens, 300,953 Output Tokens
-
-💵 $88.49 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 35 AI Prompts
-
-Opus                     1,265 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 59.39% of written lines came from AI
-📝 Concise Prompter — average 134 characters per prompt
-🔁 Iterative Prompter — average 35 prompts per session
-🔍 Hands-On Reviewer — 63.1% of changed lines were hand-edited
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
 
 
 <!--END_SECTION:wakatime-->
