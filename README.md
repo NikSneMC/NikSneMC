@@ -76,7 +76,7 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C205%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C207%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2015%20mins-blue?style=flat)
 
@@ -86,19 +86,19 @@
 
 ```text
 💬 Programming Languages: 
-Rust                     9 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.93 % 
-TOML                     2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Nix                      2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-YAML                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Rust                     9 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.41 % 
+Nix                      4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+TOML                     2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+YAML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Markdown                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 33 mins (57.39%)
+⏱ AI Coding Time: 10 hrs 33 mins (51.04%)
 
-✍️ 3,782 lines written by AI, 1,008 lines written by hand (78.96% AI-written)
+✍️ 3,782 lines written by AI, 1,116 lines written by hand (77.22% AI-written)
 
 🔤 2,575,421 Input Tokens, 929,436 Output Tokens
 
@@ -109,10 +109,10 @@ Markdown                 1 hr 5 mins         █░░░░░░░░░░�
 Opus                     4,539 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.96% of written lines came from AI
+🤖 AI-Driven — 77.22% of written lines came from AI
 📝 Concise Prompter — average 324 characters per prompt
 🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 33.02% of changed lines were hand-edited
+🚀 High AI Trust — 34.74% of changed lines were hand-edited
 ```
 
 
