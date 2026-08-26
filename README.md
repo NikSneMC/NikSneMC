@@ -86,33 +86,14 @@
 
 ```text
 💬 Programming Languages: 
-Nix                      6 hrs 13 mins       ███████████████░░░░░░░░░░   60.84 % 
-Rust                     2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Docker                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Ezhil                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Nix                      6 hrs 13 mins       █████████████████████████   99.49 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 43 mins (36.4%)
-
-✍️ 1,957 lines written by AI, 835 lines written by hand (70.09% AI-written)
-
-🔤 696,363 Input Tokens, 324,245 Output Tokens
-
-💵 $82.28 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 31 AI Prompts
-
-Opus                     2,154 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 70.09% of written lines came from AI
-📄 Detailed Prompter — average 906 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 36.36% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
