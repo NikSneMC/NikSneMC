@@ -76,7 +76,7 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C209%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C210%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2015%20mins-blue?style=flat)
 
@@ -86,9 +86,8 @@
 
 ```text
 💬 Programming Languages: 
-Nix                      4 hrs 33 mins       █████████████████████████   99.28 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Nix                      3 hrs 10 mins       █████████████████████████   99.95 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
