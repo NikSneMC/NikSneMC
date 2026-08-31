@@ -86,7 +86,7 @@
 
 ```text
 💬 Programming Languages: 
-Nix                      3 hrs 10 mins       █████████████████████████   100.00 % 
+Nix                      52 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
