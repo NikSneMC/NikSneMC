@@ -76,7 +76,7 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C211%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C211%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2015%20mins-blue?style=flat)
 
@@ -86,16 +86,16 @@
 
 ```text
 💬 Programming Languages: 
-Nix                      38 mins             ███████████████░░░░░░░░░░   58.69 % 
-Python                   27 mins             ██████████░░░░░░░░░░░░░░░   41.31 % 
+Nix                      42 mins             ███████████████░░░░░░░░░░   60.53 % 
+Python                   27 mins             ██████████░░░░░░░░░░░░░░░   39.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (64.24%)
+⏱ AI Coding Time: 42 mins (61.37%)
 
-✍️ 11 lines written by AI, 2 lines written by hand (84.62% AI-written)
+✍️ 11 lines written by AI, 5 lines written by hand (68.75% AI-written)
 
 🔤 3,332,053 Input Tokens, 16,887 Output Tokens
 
@@ -106,10 +106,10 @@ Python                   27 mins             ██████████░�
 Claude                   84 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.62% of written lines came from AI
+🤖 AI-Driven — 68.75% of written lines came from AI
 📝 Concise Prompter — average 112 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 12.5% of changed lines were hand-edited
+🚀 High AI Trust — 15.15% of changed lines were hand-edited
 ```
 
 
