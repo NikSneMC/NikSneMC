@@ -78,38 +78,14 @@
 <!--START_SECTION:wakatime-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C211%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-42%20hrs%2015%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.88%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Nix                      42 mins             ███████████████░░░░░░░░░░   60.53 % 
-Python                   27 mins             ██████████░░░░░░░░░░░░░░░   39.47 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 42 mins (61.37%)
-
-✍️ 11 lines written by AI, 5 lines written by hand (68.75% AI-written)
-
-🔤 3,332,053 Input Tokens, 16,887 Output Tokens
-
-💵 $34.16 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 12 AI Prompts
-
-Claude                   84 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 68.75% of written lines came from AI
-📝 Concise Prompter — average 112 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 15.15% of changed lines were hand-edited
+Nix                      42 mins             █████████████████████████   99.64 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 
