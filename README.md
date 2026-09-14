@@ -76,7 +76,7 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C211%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C215%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.90%20million%20lines%20of%20code-blue?style=flat)
 
@@ -84,7 +84,9 @@
 
 ```text
 💬 Programming Languages: 
-Nix                      26 mins             █████████████████████████   100.00 % 
+Nix                      4 hrs 21 mins       ████████████████████████░   94.14 % 
+Git Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 
 
