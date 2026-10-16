@@ -53,7 +53,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#4](https://github.com/NikSneMC/mobc-sqlx/pull/4) in [NikSneMC/mobc-sqlx](https://github.com/NikSneMC/mobc-sqlx)
+1. 💪 Opened PR [#201](https://github.com/epireyn/niri-flake/pull/201) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
 2. ❌ Closed PR [#3](https://github.com/NikSneMC/mobc-sqlx/pull/3) in [NikSneMC/mobc-sqlx](https://github.com/NikSneMC/mobc-sqlx)
 3. ❌ Closed PR [#2](https://github.com/NikSneMC/mobc-sqlx/pull/2) in [NikSneMC/mobc-sqlx](https://github.com/NikSneMC/mobc-sqlx)
 4. ❌ Closed PR [#1](https://github.com/NikSneMC/mobc-sqlx/pull/1) in [NikSneMC/mobc-sqlx](https://github.com/NikSneMC/mobc-sqlx)
