@@ -53,8 +53,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#201](https://github.com/epireyn/niri-flake/pull/201) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
-2. ❌ Closed PR [#3](https://github.com/NikSneMC/mobc-sqlx/pull/3) in [NikSneMC/mobc-sqlx](https://github.com/NikSneMC/mobc-sqlx)
+1. 💪 Opened PR [#203](https://github.com/epireyn/niri-flake/pull/203) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
+2. 💪 Opened PR [#201](https://github.com/epireyn/niri-flake/pull/201) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
 3. ❌ Closed PR [#2](https://github.com/NikSneMC/mobc-sqlx/pull/2) in [NikSneMC/mobc-sqlx](https://github.com/NikSneMC/mobc-sqlx)
 4. ❌ Closed PR [#1](https://github.com/NikSneMC/mobc-sqlx/pull/1) in [NikSneMC/mobc-sqlx](https://github.com/NikSneMC/mobc-sqlx)
 5. 🗣 Commented on [#206](https://github.com/noctalia-dev/community-plugins/issues/206#issuecomment-5154481590) in [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
