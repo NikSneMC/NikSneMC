@@ -53,11 +53,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4925](https://github.com/noctalia-dev/noctalia/pull/4925) in [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
-2. 💪 Opened PR [#4925](https://github.com/noctalia-dev/noctalia/pull/4925) in [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
-3. 💪 Opened PR [#203](https://github.com/epireyn/niri-flake/pull/203) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
-4. 💪 Opened PR [#201](https://github.com/epireyn/niri-flake/pull/201) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
-5. 🗣 Commented on [#206](https://github.com/noctalia-dev/community-plugins/issues/206#issuecomment-5154481590) in [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
+1. 🎉 Merged PR [#201](https://github.com/epireyn/niri-flake/pull/201) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
+2. 🎉 Merged PR [#4925](https://github.com/noctalia-dev/noctalia/pull/4925) in [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
+3. 💪 Opened PR [#4925](https://github.com/noctalia-dev/noctalia/pull/4925) in [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
+4. 💪 Opened PR [#203](https://github.com/epireyn/niri-flake/pull/203) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
+5. 💪 Opened PR [#201](https://github.com/epireyn/niri-flake/pull/201) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
 6. 🗣 Commented on [#206](https://github.com/noctalia-dev/community-plugins/issues/206#issuecomment-5154123991) in [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
 7. 🗣 Commented on [#206](https://github.com/noctalia-dev/community-plugins/issues/206#issuecomment-5154095040) in [noctalia-dev/community-plugins](https://github.com/noctalia-dev/community-plugins)
 
