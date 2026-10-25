@@ -14,14 +14,14 @@
 <!-- Some facts -->
 <picture>
 	<source
-		srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=1000&color=000000&vCenter=true&width=2190&height=100&lines=%E2%97%8F+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+Wolfland;%E2%97%8F+%F0%9F%8C%B1+I%E2%80%99m+constantly+learning+something+new;%E2%97%8F+%F0%9F%93%AB+How+to+reach+me%3A+You+can+contact+me+on+Discord;%E2%97%8F+%E2%9A%A1+about+me%3A+I+love+coding%2C+I+am+Co-Owner+of+ShardMC+%26+technical+admin+of+the+%22Wolfland%22+Minecraft+server;●+❄%EF%B8%8F+I+use+NixOS+btw"
+		srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=1000&color=000000&vCenter=true&width=2190&height=100&lines=%E2%97%8F+%F0%9F%8C%B1+I%E2%80%99m+constantly+learning+something+new;%E2%97%8F+%F0%9F%93%AB+How+to+reach+me%3A+You+can+contact+me+on+Discord;%E2%97%8F+%E2%9A%A1+about+me%3A+I+love+messing+around+with+some+silly+funny+stupid+things+often+called+IT;●+❄%EF%B8%8F+I+use+NixOS+btw"
 		media="(prefers-color-scheme: light)"
 	/>
 	<source
-		srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=1000&color=FFFFFF&vCenter=true&width=2190&height=100&lines=%E2%97%8F+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+Wolfland;%E2%97%8F+%F0%9F%8C%B1+I%E2%80%99m+constantly+learning+something+new;%E2%97%8F+%F0%9F%93%AB+How+to+reach+me%3A+You+can+contact+me+on+Discord;%E2%97%8F+%E2%9A%A1+about+me%3A+I+love+coding%2C+I+am+Co-Owner+of+ShardMC+%26+technical+admin+of+the+%22Wolfland%22+Minecraft+server;●+❄%EF%B8%8F+I+use+NixOS+btw"
+		srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=1000&color=FFFFFF&vCenter=true&width=2190&height=100&lines=%E2%97%8F+%F0%9F%8C%B1+I%E2%80%99m+constantly+learning+something+new;%E2%97%8F+%F0%9F%93%AB+How+to+reach+me%3A+You+can+contact+me+on+Discord;%E2%97%8F+%E2%9A%A1+about+me%3A+I+love+messing+around+with+some+silly+funny+stupid+things+often+called+IT;●+❄%EF%B8%8F+I+use+NixOS+btw"
 		media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
 	/>
-	<img alt="description" src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=1000&color=FFFFFF&vCenter=true&width=2190&height=100&lines=%E2%97%8F+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+Wolfland;%E2%97%8F+%F0%9F%8C%B1+I%E2%80%99m+constantly+learning+something+new;%E2%97%8F+%F0%9F%93%AB+How+to+reach+me%3A+You+can+contact+me+on+Discord;%E2%97%8F+%E2%9A%A1+about+me%3A+I+love+coding%2C+I+am+Co-Owner+of+ShardMC+%26+technical+admin+of+the+%22Wolfland%22+Minecraft+server;●+❄%EF%B8%8F+I+use+NixOS+btw"/>
+	<img alt="description" src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=40&pause=1000&color=FFFFFF&vCenter=true&width=2190&height=100&lines=%E2%97%8F+%F0%9F%8C%B1+I%E2%80%99m+constantly+learning+something+new;%E2%97%8F+%F0%9F%93%AB+How+to+reach+me%3A+You+can+contact+me+on+Discord;%E2%97%8F+%E2%9A%A1+about+me%3A+I+love+messing+around+with+some+silly+funny+stupid+things+often+called+IT;●+❄%EF%B8%8F+I+use+NixOS+btw"/>
 </picture>
 <!-- Social stuff: Discord status -->
 <a href="https://discord.com/invite/hGxQgrYTD3" target="_blank">
@@ -80,15 +80,15 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.12%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Nix                      5 hrs 59 mins       █████████████░░░░░░░░░░░░   51.42 % 
-Bash                     3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.04 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+💬 Programming Languages:
+Nix                      5 hrs 59 mins       █████████████░░░░░░░░░░░░   51.42 %
+Bash                     3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.04 %
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 ```
 
 
