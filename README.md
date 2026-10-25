@@ -78,17 +78,17 @@
 <!--START_SECTION:wakatime-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C421%20hrs%2033%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.13%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.12%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Nix                      7 hrs 31 mins       ██████████████░░░░░░░░░░░   56.80 % 
-Bash                     3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Nix                      5 hrs 59 mins       █████████████░░░░░░░░░░░░   51.42 % 
+Bash                     3 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 ```
 
 
