@@ -96,6 +96,17 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.03%20million%20lines%20of%20code-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 4 hrs               ████████░░░░░░░░░░░░░░░░░   32.35 % 
+Bash                     2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Nix                      2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Python                   2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Text                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+```
+
 
 <!--END_SECTION:wakatime-->
 <!-- GitHub stats: account -->
