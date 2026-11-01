@@ -92,7 +92,7 @@
 </picture>
 
 <!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C433%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C438%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.03%20million%20lines%20of%20code-blue?style=flat)
 
@@ -100,11 +100,11 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs               ████████░░░░░░░░░░░░░░░░░   32.39 % 
-Bash                     2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-Nix                      2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Python                   2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Text                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Markdown                 4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+Bash                     3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+Nix                      3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+Python                   2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Text                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
 ```
 
 
