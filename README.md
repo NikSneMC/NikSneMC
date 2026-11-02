@@ -69,13 +69,13 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#203](https://github.com/epireyn/niri-flake/pull/203) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
-2. 🗣 Commented on [#203](https://github.com/epireyn/niri-flake/pull/203#issuecomment-6396608968) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
-3. 🗣 Commented on [#203](https://github.com/epireyn/niri-flake/pull/203#issuecomment-6396033869) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
-4. 🎉 Merged PR [#201](https://github.com/epireyn/niri-flake/pull/201) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
-5. 🎉 Merged PR [#4925](https://github.com/noctalia-dev/noctalia/pull/4925) in [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
-6. 💪 Opened PR [#4925](https://github.com/noctalia-dev/noctalia/pull/4925) in [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia)
-7. 💪 Opened PR [#203](https://github.com/epireyn/niri-flake/pull/203) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
+1. ❌ Closed PR [#235](https://github.com/epireyn/niri-flake/pull/235) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
+2. 💪 Opened PR [#235](https://github.com/epireyn/niri-flake/pull/235) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
+3. 🗣 Commented on [#225](https://github.com/epireyn/niri-flake/issues/225#issuecomment-6566932011) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
+4. 💪 Opened PR [#234](https://github.com/epireyn/niri-flake/pull/234) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
+5. 🎉 Merged PR [#203](https://github.com/epireyn/niri-flake/pull/203) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
+6. 🗣 Commented on [#203](https://github.com/epireyn/niri-flake/pull/203#issuecomment-6396608968) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
+7. 🗣 Commented on [#203](https://github.com/epireyn/niri-flake/pull/203#issuecomment-6396033869) in [epireyn/niri-flake](https://github.com/epireyn/niri-flake)
 
 <!--END_SECTION:activity-->
 <!-- Wakatime stats: label -->
