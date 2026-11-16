@@ -16,14 +16,14 @@
 <summary>
 <picture>
 	<source
-		srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=20&pause=1000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=600&height=100&lines=Some+silly+panes+no+one+cares+about"
+		srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=20&pause=1000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=600&height=100&lines=Some+silly+panes+nobody+cares+about"
 		media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
 	/>
 	<source
-		srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=20&pause=1000&duration=2500&color=000000&vCenter=true&repeat=false&width=600&height=100&lines=Some+silly+panes+no+one+cares+about"
+		srcset="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=20&pause=1000&duration=2500&color=000000&vCenter=true&repeat=false&width=600&height=100&lines=Some+silly+panes+nobody+cares+about"
 		media="(prefers-color-scheme: light)"
 	/>
-	<img alt="some silly panes no one cares about" src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=20&pause=1000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=600&height=100&lines=Some+silly+panes+no+one+cares+about"/>
+	<img alt="some silly panes nobody cares about" src="https://readme-typing-svg.herokuapp.com?font=Bad+Script&size=20&pause=1000&duration=2500&color=FFFFFF&vCenter=true&repeat=false&width=600&height=100&lines=Some+silly+panes+nobody+cares+about"/>
 </picture>
 </summary>
 
