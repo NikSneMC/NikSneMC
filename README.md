@@ -43,14 +43,15 @@
 <a href="https://discord.com/invite/hGxQgrYTD3" target="_blank">
 	<picture>
 		<source
-			srcset="https://discord.c99.nl/widget/theme-4/760511113795207168.png"
+			srcset="https://statusbanner.com/banner/minimal-dark/760511113795207168.svg?compact=1"
 			media="(prefers-color-scheme: dark)%2C (prefers-color-scheme: no-preference)"
 		/>
+		<!-- TODO: fix the light theme -->
 		<source
-			srcset="https://discord.c99.nl/widget/theme-5/760511113795207168.png"
+			srcset="https://statusbanner.com/banner/minimal-dark/760511113795207168.svg?compact=1"
 			media="(prefers-color-scheme: light)"
 		/>
-		<img alt="My Discord Status" src="https://discord.c99.nl/widget/theme-4/760511113795207168.png"/>
+		<img alt="My Discord Status" src="https://statusbanner.com/banner/minimal-dark/760511113795207168.svg?compact=1"/>
 	</picture>
 </a>
 <br>
@@ -96,15 +97,15 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.03%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Markdown                 4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-Bash                     3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Nix                      3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-Python                   2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Text                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+💬 Programming Languages:
+Markdown                 4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.37 %
+Bash                     3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.49 %
+Nix                      3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.35 %
+Python                   2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
+Text                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
 ```
 
 
